@@ -1,0 +1,3 @@
+batch_id,source_fichier,reject_rule,reject_reason,nb_lignes,raw_payload,reject_ts
+B02_STAGING_20260523_213217,stg_raw_emploi.csv,R12,Tous les indicateurs chômage sont null,2,"{""CODGEO"":""85165"",""code_departement"":""85"",""P10_POP1564"":null,""P10_CHOM1564"":null,""P15_POP1564"":null,""P15_CHOM1564"":null,""P21_POP1564"":null,""P21_CHOM1564"":null}",2026-05-23T21:33:16.205037
+B02_STAGING_20260523_213217,stg_raw_emploi.csv,R12,Tous les indicateurs chômage sont null,2,"{""CODGEO"":""85212"",""code_departement"":""85"",""P10_POP1564"":null,""P10_CHOM1564"":null,""P15_POP1564"":null,""P15_CHOM1564"":null,""P21_POP1564"":null,""P21_CHOM1564"":null}",2026-05-23T21:33:16.205037

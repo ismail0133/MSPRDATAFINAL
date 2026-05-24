@@ -1,0 +1,7 @@
+indicateur_sk,code_indicateur,libelle,unite,source,col_source,description
+1,CHOMAGE,Taux de chômage,%,INSEE - Recensement population,P10/P15/P21_CHOM1564 / POP1564,Part des chômeurs dans la population active 15-64 ans
+2,PAUVRETE,Taux de pauvreté,%,INSEE - Filosofi,PR_MD60_23,Part de la population sous le seuil de pauvreté à 60% du revenu médian
+3,POPULATION,Population totale,habitants,INSEE - Recensement,P22_POP / P16_POP,Population légale totale de la région
+4,ENTREPRISES,Nombre d'entreprises actives,unités,INSEE - SIRENE,ETTOT24,Nombre total d'établissements actifs
+5,CRIMINALITE,Taux de criminalité,‰,data.gouv.fr - Crimes et délits,taux_pour_mille,Nombre de crimes et délits pour 1000 habitants
+6,PARTICIPATION_PRES,Taux de participation présidentielle,%,data.gouv.fr - Résultats électoraux,taux_participation_reel,Part des inscrits ayant voté au 1er tour de la présidentielle

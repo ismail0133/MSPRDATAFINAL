@@ -1,0 +1,17 @@
+# Environnement local Python / Jupyter
+.venv/
+.jupyter_config/
+.jupyter_data/
+.jupyter_runtime/
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+
+# Fichiers système
+.DS_Store
+
+# Fichiers bruts trop volumineux pour GitHub sans Git LFS
+data/raw_batches/candidats_results.csv
+data/raw_batches/crimes_delits_communes.csv
+data/raw_batches/general_results.csv
+data/raw_batches/emploi_pop_active.CSV

@@ -1,0 +1,7 @@
+indicateur_fact_sk,indicateur_sk,code_indicateur,region_sk,valeur_2012,valeur_2017,valeur_2022,delta_2012_2017,delta_2017_2022,delta_2012_2022,evolution_pct_12_17,evolution_pct_17_22
+1,1,taux_chomage,1,6.0844,7.7453,6.248,1.6609,-1.4973,0.1636,27.3,-19.33
+2,3,population_totale,1,3737632.0,3737632.0,3879216.0,0.0,141584.0,141584.0,0.0,3.79
+3,2,taux_pauvrete,1,11.4745,11.4745,11.4745,0.0,0.0,0.0,0.0,0.0
+4,4,nb_entreprises,1,127018.0,127018.0,127018.0,0.0,0.0,0.0,0.0,0.0
+5,5,taux_criminalite,1,0.0,1.1801,1.2851,1.1801,0.105,1.2851,0.0,8.9
+6,6,taux_participation_pres,1,80.2626,80.0309,73.9957,-0.2317,-6.0352,-6.2669,-0.29,-7.54

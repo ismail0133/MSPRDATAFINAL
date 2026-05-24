@@ -1,0 +1,6 @@
+indicateur,correlation_participation,force,sens,delta_2012_2017,delta_2017_2022
+population_totale,-0.9995,FORTE,NEGATIVE,0.0,141584.0
+taux_criminalite,-0.589,MOYENNE,NEGATIVE,1.1801,0.105
+taux_chomage,0.3908,FAIBLE,POSITIVE,1.6609,-1.4973
+taux_pauvrete,0.0,FAIBLE,NEGATIVE,0.0,0.0
+nb_entreprises,0.0,FAIBLE,NEGATIVE,0.0,0.0
