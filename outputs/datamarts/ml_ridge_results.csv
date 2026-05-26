@@ -1,0 +1,2 @@
+model,RMSE,MAE,n_obs,cv
+Ridge,7.281603041226568,6.3429,6,LeaveOneOut

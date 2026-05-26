@@ -1,5 +1,6 @@
-batch_id,notebook,statut,zone_etude,nb_fichiers,nb_lignes_total,duree_sec,run_ts,note,nb_fichiers_std,nb_rejets_total,nb_tables,taille_db_kb
-B01_COLLECTE_20260523_210500,01_collecte,SUCCESS,Pays de la Loire,5.0,318249.0,319,2026-05-23T21:10:19.629881,Collecte brute OK — 5 fichiers stg_raw produits,,,,
-B02_STAGING_20260523_213217,02_staging_qualite,SUCCESS,Pays de la Loire,,,61,2026-05-23T21:33:18.340769,Staging OK — 133252 rejets isolés dans stg_reject_ALL.csv,5.0,133252.0,,
-B03_TRANSFO_20260523_213424,03_transformations,SUCCESS,Pays de la Loire,5.0,,1,2026-05-23T21:34:26.123838,Transformations OK — deltas + corrélations + dataset ML produits,,,,
-B04_DWH_20260523_215922,04_data_warehouse,SUCCESS,Pays de la Loire,,,0,2026-05-23T21:59:22.651960,DWH OK — 7 tables dans electio_dwh.db,,,7.0,32.0
+batch_id,notebook,statut,zone_etude,nb_fichiers,nb_lignes_total,duree_sec,run_ts,note,nb_fichiers_std,nb_rejets_total,nb_tables,taille_db_kb,granularite,strategie_nan,nb_sources
+B01_COLLECTE_20260523_210500,01_collecte,SUCCESS,Pays de la Loire,5.0,318249.0,319.0,2026-05-23T21:10:19.629881,Collecte brute OK — 5 fichiers stg_raw produits,,,,,,,
+B02_STAGING_20260523_213217,02_staging_qualite,SUCCESS,Pays de la Loire,,,61.0,2026-05-23T21:33:18.340769,Staging OK — 133252 rejets isolés dans stg_reject_ALL.csv,5.0,133252.0,,,,,
+B03_TRANSFO_20260523_213424,03_transformations,SUCCESS,Pays de la Loire,5.0,,1.0,2026-05-23T21:34:26.123838,Transformations OK — deltas + corrélations + dataset ML produits,,,,,,,
+B04_DWH_20260523_215922,04_data_warehouse,SUCCESS,Pays de la Loire,,,0.0,2026-05-23T21:59:22.651960,DWH OK — 7 tables dans electio_dwh.db,,,7.0,32.0,,,
+B00_CADRAGE,00_cadrage_et_choix,SUCCESS,Pays de la Loire,,,,2026-05-26T10:49:20.099601,Cadrage OK — arborescence + constantes initialisées,,,,,region,imputation_par_moyenne,5.0

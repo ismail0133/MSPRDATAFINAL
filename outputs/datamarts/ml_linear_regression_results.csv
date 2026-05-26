@@ -1,0 +1,2 @@
+model,RMSE,MAE,n_obs,cv
+LinearRegression,6.463432773431367,5.462633333333333,6,LeaveOneOut
