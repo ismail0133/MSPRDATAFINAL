@@ -1,0 +1,7 @@
+{
+  "grain": "commune-election",
+  "rows_dataset_ml": 8039,
+  "rows_elections_commune": 8039,
+  "rows_correlations": 8,
+  "target": "taux_participation_reel"
+}

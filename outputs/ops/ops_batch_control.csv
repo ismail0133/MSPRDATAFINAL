@@ -1,6 +1,36 @@
-batch_id,notebook,statut,zone_etude,nb_fichiers,nb_lignes_total,duree_sec,run_ts,note,nb_fichiers_std,nb_rejets_total,nb_tables,taille_db_kb,granularite,strategie_nan,nb_sources
-B01_COLLECTE_20260523_210500,01_collecte,SUCCESS,Pays de la Loire,5.0,318249.0,319.0,2026-05-23T21:10:19.629881,Collecte brute OK — 5 fichiers stg_raw produits,,,,,,,
-B02_STAGING_20260523_213217,02_staging_qualite,SUCCESS,Pays de la Loire,,,61.0,2026-05-23T21:33:18.340769,Staging OK — 133252 rejets isolés dans stg_reject_ALL.csv,5.0,133252.0,,,,,
-B03_TRANSFO_20260523_213424,03_transformations,SUCCESS,Pays de la Loire,5.0,,1.0,2026-05-23T21:34:26.123838,Transformations OK — deltas + corrélations + dataset ML produits,,,,,,,
-B04_DWH_20260523_215922,04_data_warehouse,SUCCESS,Pays de la Loire,,,0.0,2026-05-23T21:59:22.651960,DWH OK — 7 tables dans electio_dwh.db,,,7.0,32.0,,,
-B00_CADRAGE,00_cadrage_et_choix,SUCCESS,Pays de la Loire,,,,2026-05-26T10:49:20.099601,Cadrage OK — arborescence + constantes initialisées,,,,,region,imputation_par_moyenne,5.0
+run_ts,phase,dataset,rows_in,rows_out,rows_rejected,commentaire
+2026-05-23T21:10:19.629881,,,,,,
+2026-05-23T21:33:18.340769,,,,,,
+2026-05-23T21:34:26.123838,,,,,,
+2026-05-23T21:59:22.651960,,,,,,
+2026-05-26T10:49:20.099601,,,,,,
+2026-05-26T11:57:53,01_collecte,general,3162440,19824,3142616,Filtrage Pays de la Loire et elections 2012/2017/2022 T1.
+2026-05-26T11:57:53,01_collecte,candidats,27524743,222280,27302463,Filtrage Pays de la Loire et elections 2012/2017/2022 T1.
+2026-05-26T11:57:53,01_collecte,socioeco,34988,1233,33755,Filtrage Pays de la Loire et elections 2012/2017/2022 T1.
+2026-05-26T11:57:53,01_collecte,emploi,34963,1232,33731,Filtrage Pays de la Loire et elections 2012/2017/2022 T1.
+2026-05-26T11:57:53,01_collecte,securite,5238000,165780,5072220,Filtrage Pays de la Loire et elections 2012/2017/2022 T1.
+2026-05-26T11:58:39,02_staging_qualite,general,19824,0,19824,"Normalisation des codes, types numeriques et rejets qualite."
+2026-05-26T11:58:39,02_staging_qualite,candidats,222280,0,222280,"Normalisation des codes, types numeriques et rejets qualite."
+2026-05-26T11:58:39,02_staging_qualite,socioeco,1233,0,1233,"Normalisation des codes, types numeriques et rejets qualite."
+2026-05-26T11:58:39,02_staging_qualite,emploi,1232,0,1232,"Normalisation des codes, types numeriques et rejets qualite."
+2026-05-26T11:58:39,02_staging_qualite,securite,165780,0,165780,"Normalisation des codes, types numeriques et rejets qualite."
+2026-05-26T11:58:39,03_transformations,dataset_ml,0,0,0,Agregation au grain commune-election pour eviter le datamart regional trop petit.
+2026-05-26T11:58:54,02_staging_qualite,general,19824,19824,0,"Normalisation des codes, types numeriques et rejets qualite."
+2026-05-26T11:58:54,02_staging_qualite,candidats,222280,222280,0,"Normalisation des codes, types numeriques et rejets qualite."
+2026-05-26T11:58:54,02_staging_qualite,socioeco,1233,1233,0,"Normalisation des codes, types numeriques et rejets qualite."
+2026-05-26T11:58:54,02_staging_qualite,emploi,1232,1232,0,"Normalisation des codes, types numeriques et rejets qualite."
+2026-05-26T11:58:54,02_staging_qualite,securite,165780,165780,0,"Normalisation des codes, types numeriques et rejets qualite."
+2026-05-26T11:58:57,03_transformations,dataset_ml,19824,8039,0,Agregation au grain commune-election pour eviter le datamart regional trop petit.
+2026-05-26T11:58:58,04_data_warehouse,warehouse,8039,8039,0,"Publication des dimensions, faits, datamarts ML et SQLite."
+2026-05-26T12:05:43,01_collecte,general,3162440,19824,3142616,Filtrage Pays de la Loire et elections 2012/2017/2022 T1.
+2026-05-26T12:05:43,01_collecte,candidats,27524743,222280,27302463,Filtrage Pays de la Loire et elections 2012/2017/2022 T1.
+2026-05-26T12:05:43,01_collecte,socioeco,34988,1233,33755,Filtrage Pays de la Loire et elections 2012/2017/2022 T1.
+2026-05-26T12:05:43,01_collecte,emploi,34963,1232,33731,Filtrage Pays de la Loire et elections 2012/2017/2022 T1.
+2026-05-26T12:05:43,01_collecte,securite,5238000,165780,5072220,Filtrage Pays de la Loire et elections 2012/2017/2022 T1.
+2026-05-26T12:06:29,02_staging_qualite,general,19824,19824,0,"Normalisation des codes, types numeriques et rejets qualite."
+2026-05-26T12:06:29,02_staging_qualite,candidats,222280,222280,0,"Normalisation des codes, types numeriques et rejets qualite."
+2026-05-26T12:06:29,02_staging_qualite,socioeco,1233,1233,0,"Normalisation des codes, types numeriques et rejets qualite."
+2026-05-26T12:06:29,02_staging_qualite,emploi,1232,1232,0,"Normalisation des codes, types numeriques et rejets qualite."
+2026-05-26T12:06:29,02_staging_qualite,securite,165780,165780,0,"Normalisation des codes, types numeriques et rejets qualite."
+2026-05-26T12:06:32,03_transformations,dataset_ml,19824,8039,0,Agregation au grain commune-election pour eviter le datamart regional trop petit.
+2026-05-26T12:06:33,04_data_warehouse,warehouse,8039,8039,0,"Publication des dimensions, faits, datamarts ML et SQLite."

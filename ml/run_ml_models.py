@@ -8,7 +8,7 @@ import pandas as pd
 from sklearn.ensemble import RandomForestRegressor
 from sklearn.impute import SimpleImputer
 from sklearn.linear_model import LinearRegression, Ridge
-from sklearn.model_selection import LeaveOneOut, cross_validate
+from sklearn.model_selection import KFold, LeaveOneOut, cross_validate
 from sklearn.pipeline import Pipeline
 from sklearn.preprocessing import StandardScaler
 
@@ -94,24 +94,35 @@ def evaluate_models(x: pd.DataFrame, y: pd.Series) -> pd.DataFrame:
             RuntimeWarning,
         )
 
-    cv = LeaveOneOut()
-    scoring = {
-        "rmse": "neg_root_mean_squared_error",
-        "mae": "neg_mean_absolute_error",
-    }
+    if n_rows >= 30:
+        cv = KFold(n_splits=5, shuffle=True, random_state=42)
+        cv_label = "KFold(5)"
+        scoring = {
+            "rmse": "neg_root_mean_squared_error",
+            "mae": "neg_mean_absolute_error",
+            "r2": "r2",
+        }
+    else:
+        cv = LeaveOneOut()
+        cv_label = "LeaveOneOut"
+        scoring = {
+            "rmse": "neg_root_mean_squared_error",
+            "mae": "neg_mean_absolute_error",
+        }
 
     rows: list[dict[str, float | str]] = []
     for model_name, pipeline in build_pipelines().items():
         # n_jobs=1 avoids multiprocessing limitations on some locked environments.
         scores = cross_validate(pipeline, x, y, cv=cv, scoring=scoring, n_jobs=1)
+        r2 = float(scores["test_r2"].mean()) if "test_r2" in scores else np.nan
         rows.append(
             {
                 "model": model_name,
                 "RMSE": float(-scores["test_rmse"].mean()),
                 "MAE": float(-scores["test_mae"].mean()),
-                "R2": np.nan,
+                "R2": r2,
                 "n_obs": n_rows,
-                "cv": "LeaveOneOut",
+                "cv": cv_label,
             }
         )
 
@@ -127,12 +138,12 @@ def write_summary(results: pd.DataFrame) -> None:
         f"Modele retenu (RMSE min): {best['model']}",
         f"RMSE: {best['RMSE']:.4f}",
         f"MAE: {best['MAE']:.4f}",
-        "R2: non interpretable en Leave-One-Out (1 observation de test par fold)",
+        f"R2: {best['R2']:.4f}" if pd.notna(best["R2"]) else "R2: non interpretable en Leave-One-Out",
         "",
         "Justification:",
         "- Selection basee sur la performance predictive (RMSE).",
-        "- Resultat interprete comme POC (taille d'echantillon faible).",
-        "- Recommandation: enrichir le datamart avant generalisation.",
+        "- Validation croisee adaptee au volume du datamart.",
+        "- Interpretation a croiser avec les limites metier et la qualite des millesimes.",
     ]
     OUTPUT_SUMMARY.write_text("\n".join(lines), encoding="utf-8")
 

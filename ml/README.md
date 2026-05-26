@@ -49,9 +49,10 @@ Dans l'etat actuel du datamart, le travail le plus solide est la regression sur
 
 Pourquoi:
 
-- Le dataset actuel contient seulement 6 lignes (1 region x 6 elections).
-- `famille_dominante` contient des valeurs manquantes.
-- La classification est donc possible en prototype, mais non robuste pour conclure.
+- Le nouvel ETL publie un dataset au grain `commune x election`.
+- Le fichier `outputs/warehouse/dm_dataset_ml.csv` contient maintenant 8039 lignes.
+- `famille_dominante` peut etre utilisee en analyse descriptive, mais la partie ML
+  fournie reste centree sur la regression de la participation.
 
 ## Modeles compares (regression)
 
@@ -87,6 +88,7 @@ Fichiers produits:
 Depuis la racine du projet:
 
 ```bash
+pip install -r requirements.txt
 python ml/run_ml_models.py
 ```
 
@@ -99,9 +101,12 @@ python ml/run_ml_models.py
 
 ## Limites importantes a presenter
 
-- Taille d'echantillon faible (6 observations) donc resultats a prendre comme POC.
-- La classification `famille_dominante` doit etre consolidee avec plus d'observations.
-- Recommandation: enrichir le grain (ex. departement) pour la phase suivante.
+- Les millesimes socio-economiques ne correspondent pas toujours exactement aux
+  annees electorales.
+- Les donnees securite sont rapprochees par annee disponible la plus proche.
+- Certaines variables explicatives peuvent etre manquantes selon les communes.
+- Les resultats restent a interpreter avec prudence, mais la base est maintenant
+  beaucoup plus exploitable que l'ancienne aggregation regionale.
 
 ## Conclusion attendue pour la soutenance
 

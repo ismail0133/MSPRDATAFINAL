@@ -1,0 +1,37 @@
+{
+  "general": {
+    "source": "data/raw_batches/general_results.csv",
+    "target": "outputs/staging/raw/stg_raw_general.csv",
+    "rows_in": 3162440,
+    "rows_out": 19824,
+    "rows_rejected": 3142616
+  },
+  "candidats": {
+    "source": "data/raw_batches/candidats_results.csv",
+    "target": "outputs/staging/raw/stg_raw_candidats.csv",
+    "rows_in": 27524743,
+    "rows_out": 222280,
+    "rows_rejected": 27302463
+  },
+  "socioeco": {
+    "source": "data/raw_batches/base_cc_comparateur.csv",
+    "target": "outputs/staging/raw/stg_raw_socioeco.csv",
+    "rows_in": 34988,
+    "rows_out": 1233,
+    "rows_rejected": 33755
+  },
+  "emploi": {
+    "source": "data/raw_batches/emploi_pop_active.CSV",
+    "target": "outputs/staging/raw/stg_raw_emploi.csv",
+    "rows_in": 34963,
+    "rows_out": 1232,
+    "rows_rejected": 33731
+  },
+  "securite": {
+    "source": "data/raw_batches/crimes_delits_communes.csv",
+    "target": "outputs/staging/raw/stg_raw_securite.csv",
+    "rows_in": 5238000,
+    "rows_out": 165780,
+    "rows_rejected": 5072220
+  }
+}

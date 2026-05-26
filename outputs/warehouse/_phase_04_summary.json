@@ -1,0 +1,8 @@
+{
+  "grain_final": "commune-election",
+  "rows_dm_dataset_ml": 8039,
+  "rows_fact_election": 8039,
+  "rows_fact_indicateur": 48234,
+  "rows_dim_commune": 1502,
+  "sqlite": "database/electio_dwh.db"
+}

@@ -1,6 +1,9 @@
-indicateur,correlation_participation,force,sens,delta_2012_2017,delta_2017_2022,region,code_region,load_ts
-population_totale,-0.9995,FORTE,NEGATIVE,0.0,141584.0,Pays de la Loire,52,2026-05-23T21:59:22.456846
-taux_criminalite,-0.589,MOYENNE,NEGATIVE,1.1801,0.105,Pays de la Loire,52,2026-05-23T21:59:22.456846
-taux_chomage,0.3908,FAIBLE,POSITIVE,1.6609,-1.4973,Pays de la Loire,52,2026-05-23T21:59:22.456846
-taux_pauvrete,0.0,FAIBLE,NEGATIVE,0.0,0.0,Pays de la Loire,52,2026-05-23T21:59:22.456846
-nb_entreprises,0.0,FAIBLE,NEGATIVE,0.0,0.0,Pays de la Loire,52,2026-05-23T21:59:22.456846
+indicateur,correlation_participation,force,sens,nb_observations
+p22_pop,-0.020935,faible,negative,7356
+med_sl23,0.074421,faible,positive,7268
+pr_md60_23,-0.155451,faible,negative,656
+taux_chomage,-0.048905,faible,negative,7380
+ettot24,-0.02093,faible,negative,7356
+taux_faits_securite_pour_mille,-0.005581,faible,negative,7228
+inscrits_par_habitant,-0.049701,faible,negative,7356
+entreprises_par_1000_hab,0.006208,faible,positive,7356

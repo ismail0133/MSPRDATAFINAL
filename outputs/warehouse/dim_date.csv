@@ -1,8 +1,8 @@
 date_sk,annee,type_election,libelle,est_prediction
-1,2012,pres,Présidentielle 2012 - 1er tour,0
-2,2017,pres,Présidentielle 2017 - 1er tour,0
-3,2022,pres,Présidentielle 2022 - 1er tour,0
-4,2027,pres,Présidentielle 2027 - 1er tour (prédiction),1
-5,2012,legi,Législatives 2012 - 1er tour,0
-6,2017,legi,Législatives 2017 - 1er tour,0
-7,2022,legi,Législatives 2022 - 1er tour,0
+1,2012,legi,Legislatives 2012 - 1er tour,0
+2,2012,pres,Presidentielle 2012 - 1er tour,0
+3,2017,legi,Legislatives 2017 - 1er tour,0
+4,2017,pres,Presidentielle 2017 - 1er tour,0
+5,2022,legi,Legislatives 2022 - 1er tour,0
+6,2022,pres,Presidentielle 2022 - 1er tour,0
+7,2027,pres,Presidentielle 2027 - scenario de prediction,1

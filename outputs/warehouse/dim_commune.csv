@@ -1,0 +1,1503 @@
+commune_sk,code_commune,libelle_commune,code_departement,region,code_region
+1,44001,Abbaretz,44,Pays de la Loire,52
+2,44002,Aigrefeuille-Sur-Maine,44,Pays de la Loire,52
+3,44003,Ancenis-Saint-Géréon,44,Pays de la Loire,52
+4,44004,Anetz,44,Pays de la Loire,52
+5,44005,Chaumes-En-Retz,44,Pays de la Loire,52
+6,44006,Assérac,44,Pays de la Loire,52
+7,44007,Avessac,44,Pays de la Loire,52
+8,44008,Barbechat,44,Pays de la Loire,52
+9,44009,Basse-Goulaine,44,Pays de la Loire,52
+10,44010,Batz-Sur-Mer,44,Pays de la Loire,52
+11,44011,Bellign?,44,Pays de la Loire,52
+12,44012,La Bernerie-En-Retz,44,Pays de la Loire,52
+13,44013,Besné,44,Pays de la Loire,52
+14,44014,Le Bignon,44,Pays de la Loire,52
+15,44015,Blain,44,Pays de la Loire,52
+16,44016,La Boissière-Du-Doré,44,Pays de la Loire,52
+17,44017,Bonnoeuvre,44,Pays de la Loire,52
+18,44018,Bouaye,44,Pays de la Loire,52
+19,44019,Bouée,44,Pays de la Loire,52
+20,44020,Bouguenais,44,Pays de la Loire,52
+21,44021,Villeneuve-En-Retz,44,Pays de la Loire,52
+22,44022,Boussay,44,Pays de la Loire,52
+23,44023,Bouvron,44,Pays de la Loire,52
+24,44024,Brains,44,Pays de la Loire,52
+25,44025,Campbon,44,Pays de la Loire,52
+26,44026,Carquefou,44,Pays de la Loire,52
+27,44027,Casson,44,Pays de la Loire,52
+28,44028,Le Cellier,44,Pays de la Loire,52
+29,44029,Divatte-Sur-Loire,44,Pays de la Loire,52
+30,44030,La Chapelle-Des-Marais,44,Pays de la Loire,52
+31,44031,La Chapelle-Glain,44,Pays de la Loire,52
+32,44032,La Chapelle-Heulin,44,Pays de la Loire,52
+33,44033,La Chapelle-Launay,44,Pays de la Loire,52
+34,44034,La Chapelle-Saint-Sauveur,44,Pays de la Loire,52
+35,44035,La Chapelle-Sur-Erdre,44,Pays de la Loire,52
+36,44036,Châteaubriant,44,Pays de la Loire,52
+37,44037,Château-Thébaud,44,Pays de la Loire,52
+38,44038,Chauvé,44,Pays de la Loire,52
+39,44039,Cheix-En-Retz,44,Pays de la Loire,52
+40,44040,Ch?M?R?,44,Pays de la Loire,52
+41,44041,La Chevrolière,44,Pays de la Loire,52
+42,44043,Clisson,44,Pays de la Loire,52
+43,44044,Conquereuil,44,Pays de la Loire,52
+44,44045,Cordemais,44,Pays de la Loire,52
+45,44046,Corsept,44,Pays de la Loire,52
+46,44047,Couëron,44,Pays de la Loire,52
+47,44048,Couffé,44,Pays de la Loire,52
+48,44049,Le Croisic,44,Pays de la Loire,52
+49,44050,Crossac,44,Pays de la Loire,52
+50,44051,Derval,44,Pays de la Loire,52
+51,44052,Donges,44,Pays de la Loire,52
+52,44053,Drefféac,44,Pays de la Loire,52
+53,44054,Erbray,44,Pays de la Loire,52
+54,44055,La Baule-Escoublac,44,Pays de la Loire,52
+55,44056,Fay-De-Bretagne,44,Pays de la Loire,52
+56,44057,Fégréac,44,Pays de la Loire,52
+57,44058,Fercé,44,Pays de la Loire,52
+58,44059,Fresnay-En-Retz,44,Pays de la Loire,52
+59,44060,Ingrandes-Le-Fresne-Sur-Loire,44,Pays de la Loire,52
+60,44061,Frossay,44,Pays de la Loire,52
+61,44062,Le Gâvre,44,Pays de la Loire,52
+62,44063,Gétigné,44,Pays de la Loire,52
+63,44064,Gorges,44,Pays de la Loire,52
+64,44065,Grand-Auverné,44,Pays de la Loire,52
+65,44066,Grandchamps-Des-Fontaines,44,Pays de la Loire,52
+66,44067,Guémené-Penfao,44,Pays de la Loire,52
+67,44068,Guenrouet,44,Pays de la Loire,52
+68,44069,Guérande,44,Pays de la Loire,52
+69,44070,La Haie-Fouassière,44,Pays de la Loire,52
+70,44071,Haute-Goulaine,44,Pays de la Loire,52
+71,44072,Herbignac,44,Pays de la Loire,52
+72,44073,Héric,44,Pays de la Loire,52
+73,44074,Indre,44,Pays de la Loire,52
+74,44075,Issé,44,Pays de la Loire,52
+75,44076,Jans,44,Pays de la Loire,52
+76,44077,Joué-Sur-Erdre,44,Pays de la Loire,52
+77,44078,Juigné-Des-Moutiers,44,Pays de la Loire,52
+78,44079,Le Landreau,44,Pays de la Loire,52
+79,44080,Lavau-Sur-Loire,44,Pays de la Loire,52
+80,44081,Legé,44,Pays de la Loire,52
+81,44082,Ligné,44,Pays de la Loire,52
+82,44083,La Limouzinière,44,Pays de la Loire,52
+83,44084,Le Loroux-Bottereau,44,Pays de la Loire,52
+84,44085,Louisfert,44,Pays de la Loire,52
+85,44086,Lusanger,44,Pays de la Loire,52
+86,44087,Machecoul-Saint-Même,44,Pays de la Loire,52
+87,44088,Maisdon-Sur-Sèvre,44,Pays de la Loire,52
+88,44089,Malville,44,Pays de la Loire,52
+89,44090,La Marne,44,Pays de la Loire,52
+90,44091,Marsac-Sur-Don,44,Pays de la Loire,52
+91,44092,Massérac,44,Pays de la Loire,52
+92,44093,Maumusson,44,Pays de la Loire,52
+93,44094,Mauves-Sur-Loire,44,Pays de la Loire,52
+94,44095,La Meilleraye-De-Bretagne,44,Pays de la Loire,52
+95,44096,Mésanger,44,Pays de la Loire,52
+96,44097,Mesquer,44,Pays de la Loire,52
+97,44098,Missillac,44,Pays de la Loire,52
+98,44099,Moisdon-La-Rivière,44,Pays de la Loire,52
+99,44100,Monnières,44,Pays de la Loire,52
+100,44101,La Montagne,44,Pays de la Loire,52
+101,44102,Montbert,44,Pays de la Loire,52
+102,44103,Montoir-De-Bretagne,44,Pays de la Loire,52
+103,44104,Montrelais,44,Pays de la Loire,52
+104,44105,Mouais,44,Pays de la Loire,52
+105,44106,Les Moutiers-En-Retz,44,Pays de la Loire,52
+106,44107,Mouzeil,44,Pays de la Loire,52
+107,44108,Mouzillon,44,Pays de la Loire,52
+108,44109,Nantes,44,Pays de la Loire,52
+109,44110,Nort-Sur-Erdre,44,Pays de la Loire,52
+110,44111,Notre-Dame-Des-Landes,44,Pays de la Loire,52
+111,44112,Noyal-Sur-Brutz,44,Pays de la Loire,52
+112,44113,Nozay,44,Pays de la Loire,52
+113,44114,Orvault,44,Pays de la Loire,52
+114,44115,Oudon,44,Pays de la Loire,52
+115,44116,Paimboeuf,44,Pays de la Loire,52
+116,44117,Le Pallet,44,Pays de la Loire,52
+117,44118,Pannecé,44,Pays de la Loire,52
+118,44119,Paulx,44,Pays de la Loire,52
+119,44120,Le Pellerin,44,Pays de la Loire,52
+120,44121,Petit-Auverné,44,Pays de la Loire,52
+121,44122,Petit-Mars,44,Pays de la Loire,52
+122,44123,Pierric,44,Pays de la Loire,52
+123,44124,Le Pin,44,Pays de la Loire,52
+124,44125,Piriac-Sur-Mer,44,Pays de la Loire,52
+125,44126,La Plaine-Sur-Mer,44,Pays de la Loire,52
+126,44127,La Planche,44,Pays de la Loire,52
+127,44128,Plessé,44,Pays de la Loire,52
+128,44129,Pontchâteau,44,Pays de la Loire,52
+129,44130,Pont-Saint-Martin,44,Pays de la Loire,52
+130,44131,Pornic,44,Pays de la Loire,52
+131,44132,Pornichet,44,Pays de la Loire,52
+132,44133,Port-Saint-Père,44,Pays de la Loire,52
+133,44134,Pouillé-Les-Côteaux,44,Pays de la Loire,52
+134,44135,Le Pouliguen,44,Pays de la Loire,52
+135,44136,Préfailles,44,Pays de la Loire,52
+136,44137,Prinquiau,44,Pays de la Loire,52
+137,44138,Puceul,44,Pays de la Loire,52
+138,44139,Quilly,44,Pays de la Loire,52
+139,44140,La Regrippière,44,Pays de la Loire,52
+140,44141,La Remaudière,44,Pays de la Loire,52
+141,44142,Remouillé,44,Pays de la Loire,52
+142,44143,Rezé,44,Pays de la Loire,52
+143,44144,Riaillé,44,Pays de la Loire,52
+144,44145,Rouans,44,Pays de la Loire,52
+145,44146,Rougé,44,Pays de la Loire,52
+146,44147,La Rouxi?Re,44,Pays de la Loire,52
+147,44148,Ruffigné,44,Pays de la Loire,52
+148,44149,Saffré,44,Pays de la Loire,52
+149,44150,Saint-Aignan-Grandlieu,44,Pays de la Loire,52
+150,44151,Saint-André-Des-Eaux,44,Pays de la Loire,52
+151,44152,Sainte-Anne-Sur-Brivet,44,Pays de la Loire,52
+152,44153,Saint-Aubin-Des-Châteaux,44,Pays de la Loire,52
+153,44154,Saint-Brevin-Les-Pins,44,Pays de la Loire,52
+154,44155,Saint-Colomban,44,Pays de la Loire,52
+155,44156,Corcoué-Sur-Logne,44,Pays de la Loire,52
+156,44157,Saint-Etienne-De-Mer-Morte,44,Pays de la Loire,52
+157,44158,Saint-Etienne-De-Montluc,44,Pays de la Loire,52
+158,44159,Saint-Fiacre-Sur-Maine,44,Pays de la Loire,52
+159,44160,Saint-Géréon,44,Pays de la Loire,52
+160,44161,Saint-Gildas-Des-Bois,44,Pays de la Loire,52
+161,44162,Saint-Herblain,44,Pays de la Loire,52
+162,44163,Vair-Sur-Loire,44,Pays de la Loire,52
+163,44164,Saint-Hilaire-De-Chaléons,44,Pays de la Loire,52
+164,44165,Saint-Hilaire-De-Clisson,44,Pays de la Loire,52
+165,44166,Saint-Jean-De-Boiseau,44,Pays de la Loire,52
+166,44168,Saint-Joachim,44,Pays de la Loire,52
+167,44169,Saint-Julien-De-Concelles,44,Pays de la Loire,52
+168,44170,Saint-Julien-De-Vouvantes,44,Pays de la Loire,52
+169,44171,Saint-Léger-Les-Vignes,44,Pays de la Loire,52
+170,44172,Sainte-Luce-Sur-Loire,44,Pays de la Loire,52
+171,44173,Saint-Lumine-De-Clisson,44,Pays de la Loire,52
+172,44174,Saint-Lumine-De-Coutais,44,Pays de la Loire,52
+173,44175,Saint-Lyphard,44,Pays de la Loire,52
+174,44176,Saint-Malo-De-Guersac,44,Pays de la Loire,52
+175,44178,Saint-Mars-De-Coutais,44,Pays de la Loire,52
+176,44179,Saint-Mars-Du-Désert,44,Pays de la Loire,52
+177,44180,Vallons-De-L'Erdre,44,Pays de la Loire,52
+178,44181,Saint-M?Me-Le-Tenu,44,Pays de la Loire,52
+179,44182,Saint-Michel-Chef-Chef,44,Pays de la Loire,52
+180,44183,Saint-Molf,44,Pays de la Loire,52
+181,44184,Saint-Nazaire,44,Pays de la Loire,52
+182,44185,Saint-Nicolas-De-Redon,44,Pays de la Loire,52
+183,44186,Sainte-Pazanne,44,Pays de la Loire,52
+184,44187,Saint-Père-En-Retz,44,Pays de la Loire,52
+185,44188,Saint-Philbert-De-Grand-Lieu,44,Pays de la Loire,52
+186,44189,Sainte-Reine-De-Bretagne,44,Pays de la Loire,52
+187,44190,Saint-Sébastien-Sur-Loire,44,Pays de la Loire,52
+188,44191,Saint-Sulpice-Des-Landes,44,Pays de la Loire,52
+189,44192,Saint-Viaud,44,Pays de la Loire,52
+190,44193,Saint-Vincent-Des-Landes,44,Pays de la Loire,52
+191,44194,Sautron,44,Pays de la Loire,52
+192,44195,Savenay,44,Pays de la Loire,52
+193,44196,Sévérac,44,Pays de la Loire,52
+194,44197,Sion-Les-Mines,44,Pays de la Loire,52
+195,44198,Les Sorinières,44,Pays de la Loire,52
+196,44199,Soudan,44,Pays de la Loire,52
+197,44200,Soulvache,44,Pays de la Loire,52
+198,44201,Sucé-Sur-Erdre,44,Pays de la Loire,52
+199,44202,Teillé,44,Pays de la Loire,52
+200,44203,Le Temple-De-Bretagne,44,Pays de la Loire,52
+201,44204,Thouaré-Sur-Loire,44,Pays de la Loire,52
+202,44205,Les Touches,44,Pays de la Loire,52
+203,44206,Touvois,44,Pays de la Loire,52
+204,44207,Trans-Sur-Erdre,44,Pays de la Loire,52
+205,44208,Treffieux,44,Pays de la Loire,52
+206,44209,Treillières,44,Pays de la Loire,52
+207,44210,Trignac,44,Pays de la Loire,52
+208,44211,La Turballe,44,Pays de la Loire,52
+209,44212,Vallet,44,Pays de la Loire,52
+210,44213,Loireauxence,44,Pays de la Loire,52
+211,44214,Vay,44,Pays de la Loire,52
+212,44215,Vertou,44,Pays de la Loire,52
+213,44216,Vieillevigne,44,Pays de la Loire,52
+214,44217,Vigneux-De-Bretagne,44,Pays de la Loire,52
+215,44218,Villepot,44,Pays de la Loire,52
+216,44219,Vritz,44,Pays de la Loire,52
+217,44220,Vue,44,Pays de la Loire,52
+218,44221,La Chevallerais,44,Pays de la Loire,52
+219,44222,La Roche-Blanche,44,Pays de la Loire,52
+220,44223,Geneston,44,Pays de la Loire,52
+221,44224,La Grigonnais,44,Pays de la Loire,52
+222,49001,Les Alleuds,49,Pays de la Loire,52
+223,49002,Allonnes,49,Pays de la Loire,52
+224,49003,Tuffalun,49,Pays de la Loire,52
+225,49004,Andard,49,Pays de la Loire,52
+226,49005,Andign?,49,Pays de la Loire,52
+227,49006,Andrez?,49,Pays de la Loire,52
+228,49007,Angers,49,Pays de la Loire,52
+229,49008,Angrie,49,Pays de la Loire,52
+230,49009,Antoigné,49,Pays de la Loire,52
+231,49010,Armaillé,49,Pays de la Loire,52
+232,49011,Artannes-Sur-Thouet,49,Pays de la Loire,52
+233,49012,Aubigné-Sur-Layon,49,Pays de la Loire,52
+234,49013,Auverse,49,Pays de la Loire,52
+235,49014,Avir?,49,Pays de la Loire,52
+236,49015,Avrillé,49,Pays de la Loire,52
+237,49017,Baracé,49,Pays de la Loire,52
+238,49018,Baugé-En-Anjou,49,Pays de la Loire,52
+239,49019,Baun?,49,Pays de la Loire,52
+240,49020,Beaucouzé,49,Pays de la Loire,52
+241,49021,Beaufort-En-Anjou,49,Pays de la Loire,52
+242,49022,Beaulieu-Sur-Layon,49,Pays de la Loire,52
+243,49023,Beaupréau-En-Mauges,49,Pays de la Loire,52
+244,49024,Beausse,49,Pays de la Loire,52
+245,49025,Beauvau,49,Pays de la Loire,52
+246,49026,Bécon-Les-Granits,49,Pays de la Loire,52
+247,49027,Bégrolles-En-Mauges,49,Pays de la Loire,52
+248,49028,Béhuard,49,Pays de la Loire,52
+249,49029,Blaison-Saint-Sulpice,49,Pays de la Loire,52
+250,49030,Blou,49,Pays de la Loire,52
+251,49031,Boc?,49,Pays de la Loire,52
+252,49032,La Bohalle,49,Pays de la Loire,52
+253,49033,La Boissi?Re-Sur-Evre,49,Pays de la Loire,52
+254,49034,Botz-En-Mauges,49,Pays de la Loire,52
+255,49035,Bouchemaine,49,Pays de la Loire,52
+256,49036,Bouillé-Ménard,49,Pays de la Loire,52
+257,49037,Le Bourg-D'Ir?,49,Pays de la Loire,52
+258,49038,Bourg-L'Evêque,49,Pays de la Loire,52
+259,49039,Bourgneuf-En-Mauges,49,Pays de la Loire,52
+260,49040,Bouzill?,49,Pays de la Loire,52
+261,49041,Brain-Sur-Allonnes,49,Pays de la Loire,52
+262,49042,Brain-Sur-L'Authion,49,Pays de la Loire,52
+263,49043,Brain-Sur-Longuen?E,49,Pays de la Loire,52
+264,49044,Breil,49,Pays de la Loire,52
+265,49045,La Breille-Les-Pins,49,Pays de la Loire,52
+266,49046,Brézé,49,Pays de la Loire,52
+267,49047,Brign?,49,Pays de la Loire,52
+268,49048,Briollay,49,Pays de la Loire,52
+269,49049,Brion,49,Pays de la Loire,52
+270,49050,Brissac-Loire-Aubance,49,Pays de la Loire,52
+271,49051,Brissarthe,49,Pays de la Loire,52
+272,49052,Broc,49,Pays de la Loire,52
+273,49053,Brossay,49,Pays de la Loire,52
+274,49054,Candé,49,Pays de la Loire,52
+275,49055,Cantenay-Epinard,49,Pays de la Loire,52
+276,49056,Carbay,49,Pays de la Loire,52
+277,49057,Cernusson,49,Pays de la Loire,52
+278,49058,Les Cerqueux,49,Pays de la Loire,52
+279,49059,Les Cerqueux-Sous-Passavant,49,Pays de la Loire,52
+280,49060,Bellevigne-Les-Châteaux,49,Pays de la Loire,52
+281,49061,Challain-La-Potherie,49,Pays de la Loire,52
+282,49062,Chalonnes-Sous-Le-Lude,49,Pays de la Loire,52
+283,49063,Chalonnes-Sur-Loire,49,Pays de la Loire,52
+284,49064,Chambellay,49,Pays de la Loire,52
+285,49065,Les Hauts-D'Anjou,49,Pays de la Loire,52
+286,49066,Champ-Sur-Layon,49,Pays de la Loire,52
+287,49067,Chenillé-Champteussé,49,Pays de la Loire,52
+288,49068,Champtocé-Sur-Loire,49,Pays de la Loire,52
+289,49069,Orée-D'Anjou,49,Pays de la Loire,52
+290,49070,Chanteloup-Les-Bois,49,Pays de la Loire,52
+291,49071,Chanzeaux,49,Pays de la Loire,52
+292,49072,La Chapelle-Du-Gen?T,49,Pays de la Loire,52
+293,49073,La Chapelle-Hullin,49,Pays de la Loire,52
+294,49074,La Chapelle-Rousselin,49,Pays de la Loire,52
+295,49075,La Chapelle-Saint-Florent,49,Pays de la Loire,52
+296,49076,La Chapelle-Saint-Laud,49,Pays de la Loire,52
+297,49077,La Chapelle-Sur-Oudon,49,Pays de la Loire,52
+298,49078,Charc?-Saint-Ellier-Sur-Aubance,49,Pays de la Loire,52
+299,49079,Chartren?,49,Pays de la Loire,52
+300,49080,Les Hauts-D'Anjou,49,Pays de la Loire,52
+301,49081,Ch?Telais,49,Pays de la Loire,52
+302,49082,Chaudefonds-Sur-Layon,49,Pays de la Loire,52
+303,49083,Chaudron-En-Mauges,49,Pays de la Loire,52
+304,49084,Chaumont-D'Anjou,49,Pays de la Loire,52
+305,49085,La Chaussaire,49,Pays de la Loire,52
+306,49086,Terranjou,49,Pays de la Loire,52
+307,49087,Chavaignes,49,Pays de la Loire,52
+308,49088,Chaz?-Henry,49,Pays de la Loire,52
+309,49089,Chazé-Sur-Argos,49,Pays de la Loire,52
+310,49090,Cheffes,49,Pays de la Loire,52
+311,49091,Chemellier,49,Pays de la Loire,52
+312,49092,Chemillé-En-Anjou,49,Pays de la Loire,52
+313,49093,Chemir?-Sur-Sarthe,49,Pays de la Loire,52
+314,49094,Ch?Nehutte-Tr?Ves-Cunault,49,Pays de la Loire,52
+315,49095,Chenill?-Chang?,49,Pays de la Loire,52
+316,49096,Cherr?,49,Pays de la Loire,52
+317,49097,Chevir?-Le-Rouge,49,Pays de la Loire,52
+318,49098,Chign?,49,Pays de la Loire,52
+319,49099,Cholet,49,Pays de la Loire,52
+320,49100,Cizay-La-Madeleine,49,Pays de la Loire,52
+321,49101,Clefs,49,Pays de la Loire,52
+322,49102,Cléré-Sur-Layon,49,Pays de la Loire,52
+323,49103,Combr?E,49,Pays de la Loire,52
+324,49104,Concourson-Sur-Layon,49,Pays de la Loire,52
+325,49105,Contign?,49,Pays de la Loire,52
+326,49106,Corn?,49,Pays de la Loire,52
+327,49107,Cornillé-Les-Caves,49,Pays de la Loire,52
+328,49108,La Cornuaille,49,Pays de la Loire,52
+329,49109,Coron,49,Pays de la Loire,52
+330,49110,Corzé,49,Pays de la Loire,52
+331,49111,Coss?-D'Anjou,49,Pays de la Loire,52
+332,49112,Le Coudray-Macouard,49,Pays de la Loire,52
+333,49113,Courchamps,49,Pays de la Loire,52
+334,49114,Courléon,49,Pays de la Loire,52
+335,49115,Coutures,49,Pays de la Loire,52
+336,49116,Cuon,49,Pays de la Loire,52
+337,49117,La Dagueni?Re,49,Pays de la Loire,52
+338,49119,Daumeray,49,Pays de la Loire,52
+339,49120,Denée,49,Pays de la Loire,52
+340,49121,Dénezé-Sous-Doué,49,Pays de la Loire,52
+341,49122,D?Nez?-Sous-Le-Lude,49,Pays de la Loire,52
+342,49123,Distré,49,Pays de la Loire,52
+343,49125,Doué-En-Anjou,49,Pays de la Loire,52
+344,49126,Drain,49,Pays de la Loire,52
+345,49127,Durtal,49,Pays de la Loire,52
+346,49128,Echemir?,49,Pays de la Loire,52
+347,49129,Ecouflant,49,Pays de la Loire,52
+348,49130,Ecuillé,49,Pays de la Loire,52
+349,49131,Epieds,49,Pays de la Loire,52
+350,49132,Etriché,49,Pays de la Loire,52
+351,49133,Faveraye-M?Chelles,49,Pays de la Loire,52
+352,49134,Faye-D'Anjou,49,Pays de la Loire,52
+353,49135,Feneu,49,Pays de la Loire,52
+354,49136,La Ferri?Re-De-Fl?E,49,Pays de la Loire,52
+355,49137,Le Fief-Sauvin,49,Pays de la Loire,52
+356,49138,Les Bois-D'Anjou,49,Pays de la Loire,52
+357,49139,Fontaine-Milon,49,Pays de la Loire,52
+358,49140,Fontevraud-L'Abbaye,49,Pays de la Loire,52
+359,49141,Forges,49,Pays de la Loire,52
+360,49142,La Fosse-De-Tign?,49,Pays de la Loire,52
+361,49143,Fouger?,49,Pays de la Loire,52
+362,49144,Vallons-De-L'Erdre,49,Pays de la Loire,52
+363,49145,Le Fuilet,49,Pays de la Loire,52
+364,49147,G?E,49,Pays de la Loire,52
+365,49148,Gen?,49,Pays de la Loire,52
+366,49149,Gennes-Val-De-Loire,49,Pays de la Loire,52
+367,49150,Genneteil,49,Pays de la Loire,52
+368,49151,Gest?,49,Pays de la Loire,52
+369,49153,Valanjou,49,Pays de la Loire,52
+370,49154,Gr?Zill?,49,Pays de la Loire,52
+371,49155,Grez-Neuville,49,Pays de la Loire,52
+372,49156,Grug?-L'H?Pital,49,Pays de la Loire,52
+373,49157,Le Gu?D?Niau,49,Pays de la Loire,52
+374,49158,L'H?Tellerie-De-Fl?E,49,Pays de la Loire,52
+375,49159,Huillé,49,Pays de la Loire,52
+376,49160,Ingrandes-Le-Fresne-Sur-Loire,49,Pays de la Loire,52
+377,49161,La Jaille-Yvon,49,Pays de la Loire,52
+378,49162,Jallais,49,Pays de la Loire,52
+379,49163,Jarzé-Villages,49,Pays de la Loire,52
+380,49165,La Jubaudi?Re,49,Pays de la Loire,52
+381,49167,Les Garennes-Sur-Loire,49,Pays de la Loire,52
+382,49169,La Jumelli?Re,49,Pays de la Loire,52
+383,49170,Juvardeil,49,Pays de la Loire,52
+384,49171,La Lande-Chasles,49,Pays de la Loire,52
+385,49172,Landemont,49,Pays de la Loire,52
+386,49173,Lasse,49,Pays de la Loire,52
+387,49174,Huillé-Lézigné,49,Pays de la Loire,52
+388,49175,Lini?Res-Bouton,49,Pays de la Loire,52
+389,49176,Le Lion-D'Angers,49,Pays de la Loire,52
+390,49177,Lir?,49,Pays de la Loire,52
+391,49178,Loiré,49,Pays de la Loire,52
+392,49179,Le Longeron,49,Pays de la Loire,52
+393,49180,Longué-Jumelles,49,Pays de la Loire,52
+394,49181,Louerre,49,Pays de la Loire,52
+395,49182,Louresse-Rochemenier,49,Pays de la Loire,52
+396,49183,Val-D'Erdre-Auxence,49,Pays de la Loire,52
+397,49184,Louvaines,49,Pays de la Loire,52
+398,49185,Lu?-En-Baugeois,49,Pays de la Loire,52
+399,49186,Luign?,49,Pays de la Loire,52
+400,49187,Marans,49,Pays de la Loire,52
+401,49188,Marcé,49,Pays de la Loire,52
+402,49189,Marign?,49,Pays de la Loire,52
+403,49190,Le Marillais,49,Pays de la Loire,52
+404,49191,Martign?-Briand,49,Pays de la Loire,52
+405,49192,Maulévrier,49,Pays de la Loire,52
+406,49193,Le May-Sur-Evre,49,Pays de la Loire,52
+407,49194,Mazé-Milon,49,Pays de la Loire,52
+408,49195,Mazières-En-Mauges,49,Pays de la Loire,52
+409,49196,La Meignanne,49,Pays de la Loire,52
+410,49197,Meign?-Le-Vicomte,49,Pays de la Loire,52
+411,49198,Meign?,49,Pays de la Loire,52
+412,49199,Melay,49,Pays de la Loire,52
+413,49200,Longuenée-En-Anjou,49,Pays de la Loire,52
+414,49201,La Ménitré,49,Pays de la Loire,52
+415,49202,M?On,49,Pays de la Loire,52
+416,49204,Le Mesnil-En-Vall?E,49,Pays de la Loire,52
+417,49205,Miré,49,Pays de la Loire,52
+418,49206,Montfaucon-Montign?,49,Pays de la Loire,52
+419,49207,Montfort,49,Pays de la Loire,52
+420,49208,Montguillon,49,Pays de la Loire,52
+421,49209,Montigné-Lès-Rairies,49,Pays de la Loire,52
+422,49211,Montilliers,49,Pays de la Loire,52
+423,49212,Montjean-Sur-Loire,49,Pays de la Loire,52
+424,49213,Montpollin,49,Pays de la Loire,52
+425,49214,Montreuil-Juigné,49,Pays de la Loire,52
+426,49215,Montreuil-Bellay,49,Pays de la Loire,52
+427,49216,Montreuil-Sur-Loir,49,Pays de la Loire,52
+428,49217,Montreuil-Sur-Maine,49,Pays de la Loire,52
+429,49218,Montrevault-Sur-Evre,49,Pays de la Loire,52
+430,49219,Montsoreau,49,Pays de la Loire,52
+431,49220,Morannes-Sur-Sarthe-Daumeray,49,Pays de la Loire,52
+432,49221,Mouliherne,49,Pays de la Loire,52
+433,49222,Mozé-Sur-Louet,49,Pays de la Loire,52
+434,49223,Mûrs-Erigné,49,Pays de la Loire,52
+435,49224,Neuillé,49,Pays de la Loire,52
+436,49225,Neuvy-En-Mauges,49,Pays de la Loire,52
+437,49226,No?Llet,49,Pays de la Loire,52
+438,49227,Notre-Dame-D'Allen?On,49,Pays de la Loire,52
+439,49228,Noyant-Villages,49,Pays de la Loire,52
+440,49229,Noyant-La-Gravoy?Re,49,Pays de la Loire,52
+441,49230,Noyant-La-Plaine,49,Pays de la Loire,52
+442,49231,Nuaillé,49,Pays de la Loire,52
+443,49232,Nueil-Sur-Layon,49,Pays de la Loire,52
+444,49233,Nyoiseau,49,Pays de la Loire,52
+445,49234,Par?Ay-Les-Pins,49,Pays de la Loire,52
+446,49235,Parnay,49,Pays de la Loire,52
+447,49236,Passavant-Sur-Layon,49,Pays de la Loire,52
+448,49237,La Pellerine,49,Pays de la Loire,52
+449,49238,Pellouailles-Les-Vignes,49,Pays de la Loire,52
+450,49239,Le Pin-En-Mauges,49,Pays de la Loire,52
+451,49240,La Plaine,49,Pays de la Loire,52
+452,49241,Le Plessis-Grammoire,49,Pays de la Loire,52
+453,49242,Le Plessis-Mac?,49,Pays de la Loire,52
+454,49243,La Poitevini?Re,49,Pays de la Loire,52
+455,49244,Mauges-Sur-Loire,49,Pays de la Loire,52
+456,49245,Pontign?,49,Pays de la Loire,52
+457,49246,Les Ponts-De-Cé,49,Pays de la Loire,52
+458,49247,La Possonnière,49,Pays de la Loire,52
+459,49248,Ombrée-D'Anjou,49,Pays de la Loire,52
+460,49249,La Pou?Ze,49,Pays de la Loire,52
+461,49250,La Pr?Vi?Re,49,Pays de la Loire,52
+462,49251,Pruill?,49,Pays de la Loire,52
+463,49252,Le Puiset-Dor?,49,Pays de la Loire,52
+464,49253,Le Puy-Notre-Dame,49,Pays de la Loire,52
+465,49254,Querr?,49,Pays de la Loire,52
+466,49256,Rablay-Sur-Layon,49,Pays de la Loire,52
+467,49257,Les Rairies,49,Pays de la Loire,52
+468,49258,La Renaudi?Re,49,Pays de la Loire,52
+469,49259,Rochefort-Sur-Loire,49,Pays de la Loire,52
+470,49260,La Romagne,49,Pays de la Loire,52
+471,49261,Gennes-Val-De-Loire,49,Pays de la Loire,52
+472,49262,Rou-Marson,49,Pays de la Loire,52
+473,49263,Roussay,49,Pays de la Loire,52
+474,49264,Saint-Andr?-De-La-Marche,49,Pays de la Loire,52
+475,49265,Saint-Aubin-De-Luign?,49,Pays de la Loire,52
+476,49266,Saint-Augustin-Des-Bois,49,Pays de la Loire,52
+477,49267,Saint-Barthélemy-D'Anjou,49,Pays de la Loire,52
+478,49268,Sainte-Christine,49,Pays de la Loire,52
+479,49269,Saint-Christophe-Du-Bois,49,Pays de la Loire,52
+480,49270,Saint-Christophe-La-Couperie,49,Pays de la Loire,52
+481,49271,Saint-Clément-De-La-Place,49,Pays de la Loire,52
+482,49272,Saint-Clément-Des-Levées,49,Pays de la Loire,52
+483,49273,Saint-Crespin-Sur-Moine,49,Pays de la Loire,52
+484,49274,Saint-Cyr-En-Bourg,49,Pays de la Loire,52
+485,49276,Saint-Florent-Le-Vieil,49,Pays de la Loire,52
+486,49277,Sainte-Gemmes-D'Andign?,49,Pays de la Loire,52
+487,49278,Sainte-Gemmes-Sur-Loire,49,Pays de la Loire,52
+488,49279,Saint-Georges-Des-Sept-Voies,49,Pays de la Loire,52
+489,49280,Saint-Georges-Du-Bois,49,Pays de la Loire,52
+490,49281,Saint-Georges-Des-Gardes,49,Pays de la Loire,52
+491,49282,Saint-Georges-Sur-Layon,49,Pays de la Loire,52
+492,49283,Saint-Georges-Sur-Loire,49,Pays de la Loire,52
+493,49284,Saint-Germain-Des-Prés,49,Pays de la Loire,52
+494,49285,Saint-Germain-Sur-Moine,49,Pays de la Loire,52
+495,49288,Saint-Jean-De-La-Croix,49,Pays de la Loire,52
+496,49289,Saint-Jean-De-Linières,49,Pays de la Loire,52
+497,49290,Saint-Jean-Des-Mauvrets,49,Pays de la Loire,52
+498,49291,Saint-Just-Sur-Dive,49,Pays de la Loire,52
+499,49292,Val-Du-Layon,49,Pays de la Loire,52
+500,49294,Saint-Lambert-La-Potherie,49,Pays de la Loire,52
+501,49295,Saint-Laurent-De-La-Plaine,49,Pays de la Loire,52
+502,49296,Saint-Laurent-Des-Autels,49,Pays de la Loire,52
+503,49297,Saint-Laurent-Du-Mottay,49,Pays de la Loire,52
+504,49298,Saint-Léger-De-Linières,49,Pays de la Loire,52
+505,49299,Saint-Léger-Sous-Cholet,49,Pays de la Loire,52
+506,49300,Saint-L?Zin,49,Pays de la Loire,52
+507,49301,Sèvremoine,49,Pays de la Loire,52
+508,49302,Saint-Macaire-Du-Bois,49,Pays de la Loire,52
+509,49303,Saint-Martin-D'Arc?,49,Pays de la Loire,52
+510,49304,Saint-Martin-De-La-Place,49,Pays de la Loire,52
+511,49305,Saint-Martin-Du-Bois,49,Pays de la Loire,52
+512,49306,Saint-Martin-Du-Fouilloux,49,Pays de la Loire,52
+513,49307,Loire-Authion,49,Pays de la Loire,52
+514,49308,Saint-Melaine-Sur-Aubance,49,Pays de la Loire,52
+515,49309,Saint-Michel-Et-Chanveaux,49,Pays de la Loire,52
+516,49310,Saint-Paul-Du-Bois,49,Pays de la Loire,52
+517,49311,Saint-Philbert-Du-Peuple,49,Pays de la Loire,52
+518,49312,Saint-Philbert-En-Mauges,49,Pays de la Loire,52
+519,49313,Saint-Pierre-Montlimart,49,Pays de la Loire,52
+520,49314,Saint-Quentin-En-Mauges,49,Pays de la Loire,52
+521,49315,Saint-Quentin-L?S-Beaurepaire,49,Pays de la Loire,52
+522,49316,Saint-R?My-En-Mauges,49,Pays de la Loire,52
+523,49317,Saint-R?My-La-Varenne,49,Pays de la Loire,52
+524,49318,Saint-Saturnin-Sur-Loire,49,Pays de la Loire,52
+525,49319,Saint-Sauveur-De-Fl?E,49,Pays de la Loire,52
+526,49320,Saint-Sauveur-De-Landemont,49,Pays de la Loire,52
+527,49321,Saint-Sigismond,49,Pays de la Loire,52
+528,49322,Saint-Sulpice,49,Pays de la Loire,52
+529,49323,Verrières-En-Anjou,49,Pays de la Loire,52
+530,49324,La Salle-Et-Chapelle-Aubry,49,Pays de la Loire,52
+531,49325,La Salle-De-Vihiers,49,Pays de la Loire,52
+532,49326,Sarrigné,49,Pays de la Loire,52
+533,49327,Saulg?-L'H?Pital,49,Pays de la Loire,52
+534,49328,Saumur,49,Pays de la Loire,52
+535,49329,Savennières,49,Pays de la Loire,52
+536,49330,Sceaux-D'Anjou,49,Pays de la Loire,52
+537,49331,Segré-En-Anjou-Bleu,49,Pays de la Loire,52
+538,49332,La Séguinière,49,Pays de la Loire,52
+539,49333,Seiches-Sur-Le-Loir,49,Pays de la Loire,52
+540,49334,Sermaise,49,Pays de la Loire,52
+541,49335,Soeurdres,49,Pays de la Loire,52
+542,49336,Somloire,49,Pays de la Loire,52
+543,49337,Soucelles,49,Pays de la Loire,52
+544,49338,Soulaines-Sur-Aubance,49,Pays de la Loire,52
+545,49339,Soulaire-Et-Bourg,49,Pays de la Loire,52
+546,49341,Souzay-Champigny,49,Pays de la Loire,52
+547,49342,Tancoign?,49,Pays de la Loire,52
+548,49343,La Tessoualle,49,Pays de la Loire,52
+549,49344,Thorigné-D'Anjou,49,Pays de la Loire,52
+550,49345,Bellevigne-En-Layon,49,Pays de la Loire,52
+551,49346,Le Thoureil,49,Pays de la Loire,52
+552,49347,Tiercé,49,Pays de la Loire,52
+553,49348,Tign?,49,Pays de la Loire,52
+554,49349,Tilli?Res,49,Pays de la Loire,52
+555,49350,Torfou,49,Pays de la Loire,52
+556,49351,La Tourlandry,49,Pays de la Loire,52
+557,49352,Toutlemonde,49,Pays de la Loire,52
+558,49353,Trélazé,49,Pays de la Loire,52
+559,49354,Le Tremblay,49,Pays de la Loire,52
+560,49355,Trémentines,49,Pays de la Loire,52
+561,49356,Tr?Mont,49,Pays de la Loire,52
+562,49358,Turquant,49,Pays de la Loire,52
+563,49359,Les Ulmes,49,Pays de la Loire,52
+564,49360,La Varenne,49,Pays de la Loire,52
+565,49361,Varennes-Sur-Loire,49,Pays de la Loire,52
+566,49362,Varrains,49,Pays de la Loire,52
+567,49363,Vauchr?Tien,49,Pays de la Loire,52
+568,49364,Vaudelnay,49,Pays de la Loire,52
+569,49365,Les Verchers-Sur-Layon,49,Pays de la Loire,52
+570,49366,Vergonnes,49,Pays de la Loire,52
+571,49367,Erdre-En-Anjou,49,Pays de la Loire,52
+572,49368,Vernantes,49,Pays de la Loire,52
+573,49369,Vernoil-Le-Fourrier,49,Pays de la Loire,52
+574,49370,Verrie,49,Pays de la Loire,52
+575,49371,Vezins,49,Pays de la Loire,52
+576,49372,Le Vieil-Baug?,49,Pays de la Loire,52
+577,49373,Lys-Haut-Layon,49,Pays de la Loire,52
+578,49374,Villebernier,49,Pays de la Loire,52
+579,49375,Villedieu-La-Blou?Re,49,Pays de la Loire,52
+580,49376,Villemoisan,49,Pays de la Loire,52
+581,49377,Rives-Du-Loir-En-Anjou,49,Pays de la Loire,52
+582,49378,Vivy,49,Pays de la Loire,52
+583,49380,Vaulandry,49,Pays de la Loire,52
+584,49381,Yzernay,49,Pays de la Loire,52
+585,53001,Ahuillé,53,Pays de la Loire,52
+586,53002,Alexain,53,Pays de la Loire,52
+587,53003,Ambrières-Les-Vallées,53,Pays de la Loire,52
+588,53004,Ampoigné,53,Pays de la Loire,52
+589,53005,Andouillé,53,Pays de la Loire,52
+590,53006,Argenton-Notre-Dame,53,Pays de la Loire,52
+591,53007,Argentré,53,Pays de la Loire,52
+592,53008,Aron,53,Pays de la Loire,52
+593,53009,Arquenay,53,Pays de la Loire,52
+594,53010,Assé-Le-Bérenger,53,Pays de la Loire,52
+595,53011,Astillé,53,Pays de la Loire,52
+596,53012,Athée,53,Pays de la Loire,52
+597,53013,Averton,53,Pays de la Loire,52
+598,53014,Azé,53,Pays de la Loire,52
+599,53015,La Baconnière,53,Pays de la Loire,52
+600,53016,Bais,53,Pays de la Loire,52
+601,53017,Val-Du-Maine,53,Pays de la Loire,52
+602,53018,Ballots,53,Pays de la Loire,52
+603,53019,Bannes,53,Pays de la Loire,52
+604,53021,La Bazoge-Montpinçon,53,Pays de la Loire,52
+605,53022,La Bazouge-De-Chemeré,53,Pays de la Loire,52
+606,53023,La Bazouge-Des-Alleux,53,Pays de la Loire,52
+607,53025,Bazougers,53,Pays de la Loire,52
+608,53026,Beaulieu-Sur-Oudon,53,Pays de la Loire,52
+609,53027,Beaumont-Pied-De-Boeuf,53,Pays de la Loire,52
+610,53028,Belgeard,53,Pays de la Loire,52
+611,53029,Bierné-Les-Villages,53,Pays de la Loire,52
+612,53030,Le Bignon-Du-Maine,53,Pays de la Loire,52
+613,53031,La Bigottière,53,Pays de la Loire,52
+614,53032,Blandouet,53,Pays de la Loire,52
+615,53033,La Boissière,53,Pays de la Loire,52
+616,53034,Bonchamp-Lès-Laval,53,Pays de la Loire,52
+617,53035,Bouchamps-Lès-Craon,53,Pays de la Loire,52
+618,53036,Bouère,53,Pays de la Loire,52
+619,53037,Bouessay,53,Pays de la Loire,52
+620,53038,Boulay-Les-Ifs,53,Pays de la Loire,52
+621,53039,Le Bourgneuf-La-Forêt,53,Pays de la Loire,52
+622,53040,Bourgon,53,Pays de la Loire,52
+623,53041,Brains-Sur-Les-Marches,53,Pays de la Loire,52
+624,53042,Brecé,53,Pays de la Loire,52
+625,53043,Brée,53,Pays de la Loire,52
+626,53045,La Brûlatte,53,Pays de la Loire,52
+627,53046,Le Buret,53,Pays de la Loire,52
+628,53047,Carelles,53,Pays de la Loire,52
+629,53048,Chailland,53,Pays de la Loire,52
+630,53049,Châlons-Du-Maine,53,Pays de la Loire,52
+631,53050,Chammes,53,Pays de la Loire,52
+632,53051,Champéon,53,Pays de la Loire,52
+633,53052,Champfrémont,53,Pays de la Loire,52
+634,53053,Champgenéteux,53,Pays de la Loire,52
+635,53054,Changé,53,Pays de la Loire,52
+636,53055,Chantrigné,53,Pays de la Loire,52
+637,53056,La Chapelle-Anthenaise,53,Pays de la Loire,52
+638,53057,La Chapelle-Au-Riboul,53,Pays de la Loire,52
+639,53058,La Chapelle-Craonnaise,53,Pays de la Loire,52
+640,53059,La Chapelle-Rainsouin,53,Pays de la Loire,52
+641,53061,Charchigné,53,Pays de la Loire,52
+642,53062,Château-Gontier-Sur-Mayenne,53,Pays de la Loire,52
+643,53063,Châtelain,53,Pays de la Loire,52
+644,53064,Châtillon-Sur-Colmont,53,Pays de la Loire,52
+645,53065,Châtres-La-Forêt,53,Pays de la Loire,52
+646,53066,Chemazé,53,Pays de la Loire,52
+647,53067,Chémeré-Le-Roi,53,Pays de la Loire,52
+648,53068,Chérancé,53,Pays de la Loire,52
+649,53069,Chevaigné-Du-Maine,53,Pays de la Loire,52
+650,53071,Colombiers-Du-Plessis,53,Pays de la Loire,52
+651,53072,Commer,53,Pays de la Loire,52
+652,53073,Congrier,53,Pays de la Loire,52
+653,53074,Contest,53,Pays de la Loire,52
+654,53075,Cosmes,53,Pays de la Loire,52
+655,53076,Cossé-En-Champagne,53,Pays de la Loire,52
+656,53077,Cossé-Le-Vivien,53,Pays de la Loire,52
+657,53078,Coudray,53,Pays de la Loire,52
+658,53079,Couesmes-Vaucé,53,Pays de la Loire,52
+659,53080,Couptrain,53,Pays de la Loire,52
+660,53082,Courbeveille,53,Pays de la Loire,52
+661,53083,Courcité,53,Pays de la Loire,52
+662,53084,Craon,53,Pays de la Loire,52
+663,53085,Crennes-Sur-Fraubée,53,Pays de la Loire,52
+664,53086,La Croixille,53,Pays de la Loire,52
+665,53087,La Cropte,53,Pays de la Loire,52
+666,53088,Cuillé,53,Pays de la Loire,52
+667,53089,Daon,53,Pays de la Loire,52
+668,53090,Denazé,53,Pays de la Loire,52
+669,53091,Désertines,53,Pays de la Loire,52
+670,53092,Deux-Evailles,53,Pays de la Loire,52
+671,53093,La Dorée,53,Pays de la Loire,52
+672,53094,Entrammes,53,Pays de la Loire,52
+673,53095,Epineux-Le-Seguin,53,Pays de la Loire,52
+674,53096,Ernée,53,Pays de la Loire,52
+675,53097,Evron,53,Pays de la Loire,52
+676,53098,Fontaine-Couverte,53,Pays de la Loire,52
+677,53099,Forcé,53,Pays de la Loire,52
+678,53100,Fougerolles-Du-Plessis,53,Pays de la Loire,52
+679,53101,Fromentières,53,Pays de la Loire,52
+680,53102,Gastines,53,Pays de la Loire,52
+681,53103,Le Genest-Saint-Isle,53,Pays de la Loire,52
+682,53104,Gennes-Longuefuye,53,Pays de la Loire,52
+683,53105,Gesnes,53,Pays de la Loire,52
+684,53106,Gesvres,53,Pays de la Loire,52
+685,53107,Gorron,53,Pays de la Loire,52
+686,53108,La Gravelle,53,Pays de la Loire,52
+687,53109,Grazay,53,Pays de la Loire,52
+688,53110,Grez-En-Bouère,53,Pays de la Loire,52
+689,53111,La Haie-Traversaine,53,Pays de la Loire,52
+690,53112,Le Ham,53,Pays de la Loire,52
+691,53113,Hambers,53,Pays de la Loire,52
+692,53114,Hardanges,53,Pays de la Loire,52
+693,53115,Hercé,53,Pays de la Loire,52
+694,53116,Le Horps,53,Pays de la Loire,52
+695,53117,Houssay,53,Pays de la Loire,52
+696,53118,Le Housseau-Brétignolles,53,Pays de la Loire,52
+697,53119,L'Huisserie,53,Pays de la Loire,52
+698,53120,Izé,53,Pays de la Loire,52
+699,53121,Javron-Les-Chapelles,53,Pays de la Loire,52
+700,53122,Jublains,53,Pays de la Loire,52
+701,53123,Juvigné,53,Pays de la Loire,52
+702,53124,Prée-D'Anjou,53,Pays de la Loire,52
+703,53125,Landivy,53,Pays de la Loire,52
+704,53126,Larchamp,53,Pays de la Loire,52
+705,53127,Lassay-Les-Châteaux,53,Pays de la Loire,52
+706,53128,Laubrières,53,Pays de la Loire,52
+707,53129,Launay-Villiers,53,Pays de la Loire,52
+708,53130,Laval,53,Pays de la Loire,52
+709,53131,Lesbois,53,Pays de la Loire,52
+710,53132,Levaré,53,Pays de la Loire,52
+711,53133,Lignières-Orgères,53,Pays de la Loire,52
+712,53134,Livet,53,Pays de la Loire,52
+713,53135,Livré-La-Touche,53,Pays de la Loire,52
+714,53136,La Roche-Neuville,53,Pays de la Loire,52
+715,53137,Loiron-Ruillé,53,Pays de la Loire,52
+716,53138,Longuefuye,53,Pays de la Loire,52
+717,53139,Loupfougères,53,Pays de la Loire,52
+718,53140,Louverné,53,Pays de la Loire,52
+719,53141,Louvigné,53,Pays de la Loire,52
+720,53142,Madré,53,Pays de la Loire,52
+721,53143,Maisoncelles-Du-Maine,53,Pays de la Loire,52
+722,53144,Marcillé-La-Ville,53,Pays de la Loire,52
+723,53145,Marigné-Peuton,53,Pays de la Loire,52
+724,53146,Martigné-Sur-Mayenne,53,Pays de la Loire,52
+725,53147,Mayenne,53,Pays de la Loire,52
+726,53148,Mée,53,Pays de la Loire,52
+727,53150,Ménil,53,Pays de la Loire,52
+728,53151,Méral,53,Pays de la Loire,52
+729,53152,Meslay-Du-Maine,53,Pays de la Loire,52
+730,53153,Mézangers,53,Pays de la Loire,52
+731,53154,Montaudin,53,Pays de la Loire,52
+732,53155,Montenay,53,Pays de la Loire,52
+733,53156,Montflours,53,Pays de la Loire,52
+734,53157,Montigné-Le-Brillant,53,Pays de la Loire,52
+735,53158,Montjean,53,Pays de la Loire,52
+736,53159,Montourtier,53,Pays de la Loire,52
+737,53160,Montreuil-Poulay,53,Pays de la Loire,52
+738,53161,Montsûrs,53,Pays de la Loire,52
+739,53162,Moulay,53,Pays de la Loire,52
+740,53163,Neau,53,Pays de la Loire,52
+741,53164,Neuilly-Le-Vendin,53,Pays de la Loire,52
+742,53165,Niafles,53,Pays de la Loire,52
+743,53168,Nuillé-Sur-Vicoin,53,Pays de la Loire,52
+744,53169,Olivet,53,Pays de la Loire,52
+745,53170,Oisseau,53,Pays de la Loire,52
+746,53172,Origné,53,Pays de la Loire,52
+747,53173,La Pallu,53,Pays de la Loire,52
+748,53174,Parigné-Sur-Braye,53,Pays de la Loire,52
+749,53175,Parné-Sur-Roc,53,Pays de la Loire,52
+750,53176,Le Pas,53,Pays de la Loire,52
+751,53177,La Pellerine,53,Pays de la Loire,52
+752,53178,Peuton,53,Pays de la Loire,52
+753,53179,Placé,53,Pays de la Loire,52
+754,53180,Pommerieux,53,Pays de la Loire,52
+755,53181,Pontmain,53,Pays de la Loire,52
+756,53182,Port-Brillet,53,Pays de la Loire,52
+757,53184,Préaux,53,Pays de la Loire,52
+758,53185,Pré-En-Pail-Saint-Samson,53,Pays de la Loire,52
+759,53186,Quelaines-Saint-Gault,53,Pays de la Loire,52
+760,53187,Ravigny,53,Pays de la Loire,52
+761,53188,Renazé,53,Pays de la Loire,52
+762,53189,Rennes-En-Grenouilles,53,Pays de la Loire,52
+763,53190,Le Ribay,53,Pays de la Loire,52
+764,53191,La Roë,53,Pays de la Loire,52
+765,53192,La Rouaudière,53,Pays de la Loire,52
+766,53193,Ruillé-Froid-Fonds,53,Pays de la Loire,52
+767,53194,Ruill?-Le-Gravelais,53,Pays de la Loire,52
+768,53195,Sacé,53,Pays de la Loire,52
+769,53196,Saint-Aignan-De-Couptrain,53,Pays de la Loire,52
+770,53197,Saint-Aignan-Sur-Roë,53,Pays de la Loire,52
+771,53198,Saint-Aubin-Du-Désert,53,Pays de la Loire,52
+772,53199,Saint-Aubin-Fosse-Louvain,53,Pays de la Loire,52
+773,53200,Saint-Baudelle,53,Pays de la Loire,52
+774,53201,Saint-Berthevin,53,Pays de la Loire,52
+775,53202,Saint-Berthevin-La-Tannière,53,Pays de la Loire,52
+776,53203,Saint-Brice,53,Pays de la Loire,52
+777,53204,Saint-Calais-Du-Désert,53,Pays de la Loire,52
+778,53205,Saint-C?Ner?,53,Pays de la Loire,52
+779,53206,Saint-Charles-La-Forêt,53,Pays de la Loire,52
+780,53207,Saint-Christophe-Du-Luat,53,Pays de la Loire,52
+781,53208,Saint-Cyr-En-Pail,53,Pays de la Loire,52
+782,53209,Saint-Cyr-Le-Gravelais,53,Pays de la Loire,52
+783,53210,Saint-Denis-D'Anjou,53,Pays de la Loire,52
+784,53211,Saint-Denis-De-Gastines,53,Pays de la Loire,52
+785,53212,Saint-Denis-Du-Maine,53,Pays de la Loire,52
+786,53213,Saint-Ellier-Du-Maine,53,Pays de la Loire,52
+787,53214,Saint-Erblon,53,Pays de la Loire,52
+788,53215,Saint-Fort,53,Pays de la Loire,52
+789,53216,Saint-Fraimbault-De-Prières,53,Pays de la Loire,52
+790,53218,Sainte-Gemmes-Le-Robert,53,Pays de la Loire,52
+791,53219,Saint-Georges-Buttavent,53,Pays de la Loire,52
+792,53220,Saint-Georges-Le-Fléchard,53,Pays de la Loire,52
+793,53221,Saint-Georges-Sur-Erve,53,Pays de la Loire,52
+794,53222,Saint-Germain-D'Anxure,53,Pays de la Loire,52
+795,53223,Saint-Germain-De-Coulamer,53,Pays de la Loire,52
+796,53224,Saint-Germain-Le-Fouilloux,53,Pays de la Loire,52
+797,53225,Saint-Germain-Le-Guillaume,53,Pays de la Loire,52
+798,53226,Saint-Hilaire-Du-Maine,53,Pays de la Loire,52
+799,53228,Blandouet-Saint Jean,53,Pays de la Loire,52
+800,53229,Saint-Jean-Sur-Mayenne,53,Pays de la Loire,52
+801,53230,Saint-Julien-Du-Terroux,53,Pays de la Loire,52
+802,53231,Saint-Laurent-Des-Mortiers,53,Pays de la Loire,52
+803,53232,Saint-Léger-En-Charnie,53,Pays de la Loire,52
+804,53233,Saint-Loup-Du-Dorat,53,Pays de la Loire,52
+805,53234,Saint-Loup-Du-Gast,53,Pays de la Loire,52
+806,53235,Sainte-Marie-Du-Bois,53,Pays de la Loire,52
+807,53236,Saint-Mars-Du-Désert,53,Pays de la Loire,52
+808,53237,Saint-Mars-Sur-Colmont,53,Pays de la Loire,52
+809,53238,Saint-Mars-Sur-La-Futaie,53,Pays de la Loire,52
+810,53239,Saint-Martin-De-Connée,53,Pays de la Loire,52
+811,53240,Saint-Martin-Du-Limet,53,Pays de la Loire,52
+812,53241,Saint-Michel-De-Feins,53,Pays de la Loire,52
+813,53242,Saint-Michel-De-La-Roë,53,Pays de la Loire,52
+814,53243,Saint-Ouën-Des-Toits,53,Pays de la Loire,52
+815,53244,Saint-Ouën-Des-Vallons,53,Pays de la Loire,52
+816,53245,Saint-Pierre-Des-Landes,53,Pays de la Loire,52
+817,53246,Saint-Pierre-Des-Nids,53,Pays de la Loire,52
+818,53247,Saint-Pierre-La-Cour,53,Pays de la Loire,52
+819,53248,Saint-Pierre-Sur-Erve,53,Pays de la Loire,52
+820,53249,Vimartin-Sur-Orthe,53,Pays de la Loire,52
+821,53250,Saint-Poix,53,Pays de la Loire,52
+822,53251,Saint-Quentin-Les-Anges,53,Pays de la Loire,52
+823,53252,Saint-Samson,53,Pays de la Loire,52
+824,53253,Saint-Saturnin-Du-Limet,53,Pays de la Loire,52
+825,53254,Saint-Sulpice,53,Pays de la Loire,52
+826,53255,Sainte-Suzanne Et Chammes,53,Pays de la Loire,52
+827,53256,Saint-Thomas-De-Courceriers,53,Pays de la Loire,52
+828,53257,Saulges,53,Pays de la Loire,52
+829,53258,La Selle-Craonnaise,53,Pays de la Loire,52
+830,53259,Senonnes,53,Pays de la Loire,52
+831,53260,Simplé,53,Pays de la Loire,52
+832,53261,Soucé,53,Pays de la Loire,52
+833,53262,Soulgé-Sur-Ouette,53,Pays de la Loire,52
+834,53263,Thuboeuf,53,Pays de la Loire,52
+835,53264,Thorigné-En-Charnie,53,Pays de la Loire,52
+836,53265,Torcé-Viviers-En-Charnie,53,Pays de la Loire,52
+837,53266,Trans,53,Pays de la Loire,52
+838,53267,Vaiges,53,Pays de la Loire,52
+839,53269,Vautorte,53,Pays de la Loire,52
+840,53270,Vieuvy,53,Pays de la Loire,52
+841,53271,Villaines-La-Juhel,53,Pays de la Loire,52
+842,53272,Villepail,53,Pays de la Loire,52
+843,53273,Villiers-Charlemagne,53,Pays de la Loire,52
+844,53274,Vimarcé,53,Pays de la Loire,52
+845,53276,Voutré,53,Pays de la Loire,52
+846,72001,Aigné,72,Pays de la Loire,52
+847,72002,Aillières-Beauvoir,72,Pays de la Loire,52
+848,72003,Allonnes,72,Pays de la Loire,52
+849,72004,Amné-En-Champagne,72,Pays de la Loire,52
+850,72005,Ancinnes,72,Pays de la Loire,52
+851,72006,Arçonnay,72,Pays de la Loire,52
+852,72007,Ardenay-Sur-Mérize,72,Pays de la Loire,52
+853,72008,Arnage,72,Pays de la Loire,52
+854,72009,Arthezé,72,Pays de la Loire,52
+855,72010,Asnières-Sur-Vègre,72,Pays de la Loire,52
+856,72011,Assé-Le-Boisne,72,Pays de la Loire,52
+857,72012,Assé-Le-Riboul,72,Pays de la Loire,52
+858,72013,Aubigné-Racan,72,Pays de la Loire,52
+859,72015,Les Aulneaux,72,Pays de la Loire,52
+860,72016,Auvers-Le-Hamon,72,Pays de la Loire,52
+861,72017,Auvers-Sous-Montfaucon,72,Pays de la Loire,52
+862,72018,Avesnes-En-Saosnois,72,Pays de la Loire,52
+863,72019,Avessé,72,Pays de la Loire,52
+864,72020,Avezé,72,Pays de la Loire,52
+865,72021,Avoise,72,Pays de la Loire,52
+866,72022,Le Bailleul,72,Pays de la Loire,52
+867,72023,Ballon-Saint Mars,72,Pays de la Loire,52
+868,72024,La Bazoge,72,Pays de la Loire,52
+869,72025,Bazouges Cré Sur Loir,72,Pays de la Loire,52
+870,72026,Beaufay,72,Pays de la Loire,52
+871,72027,Beaumont-Sur-Dême,72,Pays de la Loire,52
+872,72028,Beaumont-Pied-De-Boeuf,72,Pays de la Loire,52
+873,72029,Beaumont-Sur-Sarthe,72,Pays de la Loire,52
+874,72031,Beillé,72,Pays de la Loire,52
+875,72032,Berfay,72,Pays de la Loire,52
+876,72033,Bernay-En-Champagne,72,Pays de la Loire,52
+877,72034,Bérus,72,Pays de la Loire,52
+878,72035,Bessé-Sur-Braye,72,Pays de la Loire,52
+879,72036,Béthon,72,Pays de la Loire,52
+880,72037,Blèves,72,Pays de la Loire,52
+881,72038,Boëssé-Le-Sec,72,Pays de la Loire,52
+882,72039,Bonnétable,72,Pays de la Loire,52
+883,72040,La Bosse,72,Pays de la Loire,52
+884,72041,Bouër,72,Pays de la Loire,52
+885,72042,Bouloire,72,Pays de la Loire,52
+886,72043,Bourg-Le-Roi,72,Pays de la Loire,52
+887,72044,Bousse,72,Pays de la Loire,52
+888,72045,Brains-Sur-Gée,72,Pays de la Loire,52
+889,72046,Le Breil-Sur-Mérize,72,Pays de la Loire,52
+890,72047,Brette-Les-Pins,72,Pays de la Loire,52
+891,72048,Briosne-Lès-Sables,72,Pays de la Loire,52
+892,72049,La Bruère-Sur-Loir,72,Pays de la Loire,52
+893,72050,Brûlon,72,Pays de la Loire,52
+894,72051,Cérans-Foulletourte,72,Pays de la Loire,52
+895,72052,Chahaignes,72,Pays de la Loire,52
+896,72053,Challes,72,Pays de la Loire,52
+897,72054,Champagné,72,Pays de la Loire,52
+898,72056,Champfleur,72,Pays de la Loire,52
+899,72057,Champrond,72,Pays de la Loire,52
+900,72058,Changé,72,Pays de la Loire,52
+901,72059,Chantenay-Villedieu,72,Pays de la Loire,52
+902,72060,La Chapelle-Aux-Choux,72,Pays de la Loire,52
+903,72061,La Chapelle-D'Aligné,72,Pays de la Loire,52
+904,72062,La Chapelle-Du-Bois,72,Pays de la Loire,52
+905,72063,La Chapelle-Gaugain,72,Pays de la Loire,52
+906,72064,La Chapelle-Huon,72,Pays de la Loire,52
+907,72065,La Chapelle-Saint-Aubin,72,Pays de la Loire,52
+908,72066,La Chapelle-Saint-Fray,72,Pays de la Loire,52
+909,72067,La Chapelle-Saint-Rémy,72,Pays de la Loire,52
+910,72068,La Chartre-Sur-Le-Loir,72,Pays de la Loire,52
+911,72069,Chass?,72,Pays de la Loire,52
+912,72070,Chassillé,72,Pays de la Loire,52
+913,72071,Montval-Sur-Loir,72,Pays de la Loire,52
+914,72072,Château-L'Hermitage,72,Pays de la Loire,52
+915,72073,Chaufour-Notre-Dame,72,Pays de la Loire,52
+916,72074,Chemiré-En-Charnie,72,Pays de la Loire,52
+917,72075,Chemiré-Le-Gaudin,72,Pays de la Loire,52
+918,72076,Chenay,72,Pays de la Loire,52
+919,72077,Chenu,72,Pays de la Loire,52
+920,72078,Chérancé,72,Pays de la Loire,52
+921,72079,Chérisay,72,Pays de la Loire,52
+922,72080,Cherré-Au,72,Pays de la Loire,52
+923,72081,Cherreau,72,Pays de la Loire,52
+924,72082,Le Chevain,72,Pays de la Loire,52
+925,72083,Chevillé,72,Pays de la Loire,52
+926,72084,Clermont-Créans,72,Pays de la Loire,52
+927,72085,Cogners,72,Pays de la Loire,52
+928,72086,Commerveil,72,Pays de la Loire,52
+929,72087,Conflans-Sur-Anille,72,Pays de la Loire,52
+930,72088,Congé-Sur-Orne,72,Pays de la Loire,52
+931,72089,Conlie,72,Pays de la Loire,52
+932,72090,Connerré,72,Pays de la Loire,52
+933,72091,Contilly,72,Pays de la Loire,52
+934,72093,Cormes,72,Pays de la Loire,52
+935,72094,Coudrecieux,72,Pays de la Loire,52
+936,72095,Coulaines,72,Pays de la Loire,52
+937,72096,Coulans-Sur-Gée,72,Pays de la Loire,52
+938,72097,Coulombiers,72,Pays de la Loire,52
+939,72098,Coulongé,72,Pays de la Loire,52
+940,72099,Courceboeufs,72,Pays de la Loire,52
+941,72100,Courcelles-La-Forêt,72,Pays de la Loire,52
+942,72101,Courcemont,72,Pays de la Loire,52
+943,72102,Courcival,72,Pays de la Loire,52
+944,72103,Courdemanche,72,Pays de la Loire,52
+945,72104,Courgains,72,Pays de la Loire,52
+946,72105,Courgenard,72,Pays de la Loire,52
+947,72106,Courtillers,72,Pays de la Loire,52
+948,72107,Crannes-En-Champagne,72,Pays de la Loire,52
+949,72108,Cr?,72,Pays de la Loire,52
+950,72109,Crissé,72,Pays de la Loire,52
+951,72110,Crosmières,72,Pays de la Loire,52
+952,72111,Cures,72,Pays de la Loire,52
+953,72112,Dangeul,72,Pays de la Loire,52
+954,72113,Degré,72,Pays de la Loire,52
+955,72114,Dehault,72,Pays de la Loire,52
+956,72115,Dissay-Sous-Courcillon,72,Pays de la Loire,52
+957,72116,Dissé-Sous-Ballon,72,Pays de la Loire,52
+958,72117,Dissé-Sous-Le-Lude,72,Pays de la Loire,52
+959,72118,Dollon,72,Pays de la Loire,52
+960,72119,Domfront-En-Champagne,72,Pays de la Loire,52
+961,72120,Doucelles,72,Pays de la Loire,52
+962,72121,Douillet-Le-Joly,72,Pays de la Loire,52
+963,72122,Duneau,72,Pays de la Loire,52
+964,72123,Dureil,72,Pays de la Loire,52
+965,72124,Ecommoy,72,Pays de la Loire,52
+966,72125,Ecorpain,72,Pays de la Loire,52
+967,72126,Epineu-Le-Chevreuil,72,Pays de la Loire,52
+968,72127,Etival-Lès-Le-Mans,72,Pays de la Loire,52
+969,72128,Val-D'Etangson,72,Pays de la Loire,52
+970,72129,Fatines,72,Pays de la Loire,52
+971,72130,Fay,72,Pays de la Loire,52
+972,72131,Fercé-Sur-Sarthe,72,Pays de la Loire,52
+973,72132,La Ferté-Bernard,72,Pays de la Loire,52
+974,72133,Fillé-Sur-Sarthe,72,Pays de la Loire,52
+975,72134,Flée,72,Pays de la Loire,52
+976,72135,La Fontaine-Saint-Martin,72,Pays de la Loire,52
+977,72136,Fontenay-Sur-Vègre,72,Pays de la Loire,52
+978,72137,Villeneuve En Perseigne,72,Pays de la Loire,52
+979,72138,Fresnay-Sur-Sarthe,72,Pays de la Loire,52
+980,72139,Fyé,72,Pays de la Loire,52
+981,72141,Gesnes-Le-Gandelin,72,Pays de la Loire,52
+982,72142,Grandchamp,72,Pays de la Loire,52
+983,72143,Le Grand-Lucé,72,Pays de la Loire,52
+984,72144,Gréez-Sur-Roc,72,Pays de la Loire,52
+985,72145,Le Grez,72,Pays de la Loire,52
+986,72146,Guécélard,72,Pays de la Loire,52
+987,72147,La Guierche,72,Pays de la Loire,52
+988,72148,Jauzé,72,Pays de la Loire,52
+989,72149,Joué-En-Charnie,72,Pays de la Loire,52
+990,72150,Joué-L'Abbé,72,Pays de la Loire,52
+991,72151,Juigné-Sur-Sarthe,72,Pays de la Loire,52
+992,72152,Juillé,72,Pays de la Loire,52
+993,72153,Jupilles,72,Pays de la Loire,52
+994,72154,La Flèche,72,Pays de la Loire,52
+995,72155,Laigné-En-Belin,72,Pays de la Loire,52
+996,72156,Lamnay,72,Pays de la Loire,52
+997,72157,Lavardin,72,Pays de la Loire,52
+998,72158,Lavaré,72,Pays de la Loire,52
+999,72159,Lavenay,72,Pays de la Loire,52
+1000,72160,Lavernat,72,Pays de la Loire,52
+1001,72161,Lhomme,72,Pays de la Loire,52
+1002,72162,Ligni?Res-La-Carelle,72,Pays de la Loire,52
+1003,72163,Ligron,72,Pays de la Loire,52
+1004,72164,Livet-En-Saosnois,72,Pays de la Loire,52
+1005,72165,Lombron,72,Pays de la Loire,52
+1006,72166,Longnes,72,Pays de la Loire,52
+1007,72167,Louailles,72,Pays de la Loire,52
+1008,72168,Loué,72,Pays de la Loire,52
+1009,72169,Louplande,72,Pays de la Loire,52
+1010,72170,Louvigny,72,Pays de la Loire,52
+1011,72171,Louzes,72,Pays de la Loire,52
+1012,72172,Le Luart,72,Pays de la Loire,52
+1013,72173,Luceau,72,Pays de la Loire,52
+1014,72174,Lucé-Sous-Ballon,72,Pays de la Loire,52
+1015,72175,Luché-Pringé,72,Pays de la Loire,52
+1016,72176,Le Lude,72,Pays de la Loire,52
+1017,72177,Maigné,72,Pays de la Loire,52
+1018,72178,Maisoncelles,72,Pays de la Loire,52
+1019,72179,Malicorne-Sur-Sarthe,72,Pays de la Loire,52
+1020,72180,Mamers,72,Pays de la Loire,52
+1021,72181,Le Mans,72,Pays de la Loire,52
+1022,72182,Mansigné,72,Pays de la Loire,52
+1023,72183,Marçon,72,Pays de la Loire,52
+1024,72184,Mareil-En-Champagne,72,Pays de la Loire,52
+1025,72185,Mareil-Sur-Loir,72,Pays de la Loire,52
+1026,72186,Maresché,72,Pays de la Loire,52
+1027,72187,Marigné-Laillé,72,Pays de la Loire,52
+1028,72188,Marollette,72,Pays de la Loire,52
+1029,72189,Marolles-Les-Braults,72,Pays de la Loire,52
+1030,72190,Marolles-Lès-Saint-Calais,72,Pays de la Loire,52
+1031,72191,Mayet,72,Pays de la Loire,52
+1032,72192,Les Mées,72,Pays de la Loire,52
+1033,72193,Melleray,72,Pays de la Loire,52
+1034,72194,Meurcé,72,Pays de la Loire,52
+1035,72195,Mézeray,72,Pays de la Loire,52
+1036,72196,Mézières-Sur-Ponthouin,72,Pays de la Loire,52
+1037,72197,Mézières-Sous-Lavardin,72,Pays de la Loire,52
+1038,72198,La Milesse,72,Pays de la Loire,52
+1039,72199,Moitron-Sur-Sarthe,72,Pays de la Loire,52
+1040,72200,Moncé-En-Belin,72,Pays de la Loire,52
+1041,72201,Moncé-En-Saosnois,72,Pays de la Loire,52
+1042,72202,Monhoudou,72,Pays de la Loire,52
+1043,72203,Montabon,72,Pays de la Loire,52
+1044,72204,Montaillé,72,Pays de la Loire,52
+1045,72205,Montbizot,72,Pays de la Loire,52
+1046,72207,Montigny,72,Pays de la Loire,52
+1047,72208,Montmirail,72,Pays de la Loire,52
+1048,72209,Montreuil-Le-Chétif,72,Pays de la Loire,52
+1049,72210,Montreuil-Le-Henri,72,Pays de la Loire,52
+1050,72211,Mont-Saint-Jean,72,Pays de la Loire,52
+1051,72212,Moulins-Le-Carbonnel,72,Pays de la Loire,52
+1052,72213,Mulsanne,72,Pays de la Loire,52
+1053,72214,Nauvay,72,Pays de la Loire,52
+1054,72215,Neufchâtel-En-Saosnois,72,Pays de la Loire,52
+1055,72216,Neuvillalais,72,Pays de la Loire,52
+1056,72217,Neuville-Sur-Sarthe,72,Pays de la Loire,52
+1057,72218,Neuvillette-En-Charnie,72,Pays de la Loire,52
+1058,72219,Bernay-Neuvy-En-Champagne,72,Pays de la Loire,52
+1059,72220,Nogent-Le-Bernard,72,Pays de la Loire,52
+1060,72221,Nogent-Sur-Loir,72,Pays de la Loire,52
+1061,72222,Nouans,72,Pays de la Loire,52
+1062,72223,Noyen-Sur-Sarthe,72,Pays de la Loire,52
+1063,72224,Nuillé-Le-Jalais,72,Pays de la Loire,52
+1064,72225,Oisseau-Le-Petit,72,Pays de la Loire,52
+1065,72226,Oizé,72,Pays de la Loire,52
+1066,72227,Panon,72,Pays de la Loire,52
+1067,72228,Parcé-Sur-Sarthe,72,Pays de la Loire,52
+1068,72229,Parennes,72,Pays de la Loire,52
+1069,72230,Parigné-Le-Pôlin,72,Pays de la Loire,52
+1070,72231,Parigné-L'Evêque,72,Pays de la Loire,52
+1071,72232,Notre-Dame-Du-Pé,72,Pays de la Loire,52
+1072,72233,Peray,72,Pays de la Loire,52
+1073,72234,Pezé-Le-Robert,72,Pays de la Loire,52
+1074,72235,Piacé,72,Pays de la Loire,52
+1075,72236,Pincé,72,Pays de la Loire,52
+1076,72237,Pirmil,72,Pays de la Loire,52
+1077,72238,Pizieux,72,Pays de la Loire,52
+1078,72239,Poillé-Sur-Vègre,72,Pays de la Loire,52
+1079,72240,Ponc?-Sur-Le-Loir,72,Pays de la Loire,52
+1080,72241,Montfort-Le-Gesnois,72,Pays de la Loire,52
+1081,72243,Pontvallain,72,Pays de la Loire,52
+1082,72244,Précigné,72,Pays de la Loire,52
+1083,72245,Préval,72,Pays de la Loire,52
+1084,72246,Prévelles,72,Pays de la Loire,52
+1085,72247,Pruillé-Le-Chétif,72,Pays de la Loire,52
+1086,72248,Pruillé-L'Eguillé,72,Pays de la Loire,52
+1087,72249,La Quinte,72,Pays de la Loire,52
+1088,72250,Rahay,72,Pays de la Loire,52
+1089,72251,René,72,Pays de la Loire,52
+1090,72252,Requeil,72,Pays de la Loire,52
+1091,72253,Roézé-Sur-Sarthe,72,Pays de la Loire,52
+1092,72254,Rouessé-Fontaine,72,Pays de la Loire,52
+1093,72255,Rouessé-Vassé,72,Pays de la Loire,52
+1094,72256,Rouez-En-Champagne,72,Pays de la Loire,52
+1095,72257,Rouillon,72,Pays de la Loire,52
+1096,72258,Roull?E,72,Pays de la Loire,52
+1097,72259,Rouperroux-Le-Coquet,72,Pays de la Loire,52
+1098,72260,Ruaudin,72,Pays de la Loire,52
+1099,72261,Ruillé-En-Champagne,72,Pays de la Loire,52
+1100,72262,Loir En Vallée,72,Pays de la Loire,52
+1101,72264,Sablé-Sur-Sarthe,72,Pays de la Loire,52
+1102,72265,Saint-Aignan,72,Pays de la Loire,52
+1103,72266,Saint-Aubin-De-Locquenay,72,Pays de la Loire,52
+1104,72267,Saint-Aubin-Des-Coudrais,72,Pays de la Loire,52
+1105,72268,Saint-Biez-En-Belin,72,Pays de la Loire,52
+1106,72269,Saint-Calais,72,Pays de la Loire,52
+1107,72270,Saint-Calez-En-Saosnois,72,Pays de la Loire,52
+1108,72271,Saint-Célerin,72,Pays de la Loire,52
+1109,72272,Sainte-Cérotte,72,Pays de la Loire,52
+1110,72273,Saint-Christophe-Du-Jambet,72,Pays de la Loire,52
+1111,72274,Saint-Christophe-En-Champagne,72,Pays de la Loire,52
+1112,72275,Saint-Corneille,72,Pays de la Loire,52
+1113,72276,Saint-Cosme-En-Vairais,72,Pays de la Loire,52
+1114,72277,Saint-Denis-Des-Coudrais,72,Pays de la Loire,52
+1115,72278,Saint-Denis-D'Orques,72,Pays de la Loire,52
+1116,72279,Saint-Georges-De-La-Couée,72,Pays de la Loire,52
+1117,72280,Saint-Georges-Du-Bois,72,Pays de la Loire,52
+1118,72281,Saint-Georges-Du-Rosay,72,Pays de la Loire,52
+1119,72282,Saint-Georges-Le-Gaultier,72,Pays de la Loire,52
+1120,72283,Saint-Germain-D'Arcé,72,Pays de la Loire,52
+1121,72284,Saint-Germain-Sur-Sarthe,72,Pays de la Loire,52
+1122,72286,Saint-Gervais-De-Vic,72,Pays de la Loire,52
+1123,72287,Saint-Gervais-En-Belin,72,Pays de la Loire,52
+1124,72288,Saint-Hilaire-Le-Lierru,72,Pays de la Loire,52
+1125,72289,Sainte-Jamme-Sur-Sarthe,72,Pays de la Loire,52
+1126,72290,Saint-Jean-D'Assé,72,Pays de la Loire,52
+1127,72291,Saint-Jean-De-La-Motte,72,Pays de la Loire,52
+1128,72292,Saint-Jean-Des-Echelles,72,Pays de la Loire,52
+1129,72293,Saint-Jean-Du-Bois,72,Pays de la Loire,52
+1130,72294,Saint-Léonard-Des-Bois,72,Pays de la Loire,52
+1131,72295,Saint-Longis,72,Pays de la Loire,52
+1132,72296,Saint-Maixent,72,Pays de la Loire,52
+1133,72297,Saint-Marceau,72,Pays de la Loire,52
+1134,72298,Saint-Mars-De-Locquenay,72,Pays de la Loire,52
+1135,72299,Saint-Mars-D'Outillé,72,Pays de la Loire,52
+1136,72300,Saint-Mars-La-Brière,72,Pays de la Loire,52
+1137,72301,Saint-Mars-Sous-Ballon,72,Pays de la Loire,52
+1138,72302,Saint-Martin-Des-Monts,72,Pays de la Loire,52
+1139,72303,Saint-Michel-De-Chavaignes,72,Pays de la Loire,52
+1140,72304,Sainte-Osmane,72,Pays de la Loire,52
+1141,72305,Saint-Ouen-De-Mimbré,72,Pays de la Loire,52
+1142,72306,Saint-Ouen-En-Belin,72,Pays de la Loire,52
+1143,72307,Saint-Ouen-En-Champagne,72,Pays de la Loire,52
+1144,72308,Saint Paterne-Le Chevain,72,Pays de la Loire,52
+1145,72309,Saint-Paul-Le-Gaultier,72,Pays de la Loire,52
+1146,72310,Saint-Pavace,72,Pays de la Loire,52
+1147,72311,Saint-Pierre-De-Chevillé,72,Pays de la Loire,52
+1148,72312,Saint-Pierre-Des-Bois,72,Pays de la Loire,52
+1149,72313,Saint-Pierre-Des-Ormes,72,Pays de la Loire,52
+1150,72314,Saint-Pierre-Du-Lorouër,72,Pays de la Loire,52
+1151,72315,Saint-Rémy-De-Sillé,72,Pays de la Loire,52
+1152,72316,Saint-Rémy-Des-Monts,72,Pays de la Loire,52
+1153,72317,Saint-Rémy-Du-Val,72,Pays de la Loire,52
+1154,72318,Saint-Rigomer-Des-Bois,72,Pays de la Loire,52
+1155,72319,Sainte-Sabine-Sur-Longève,72,Pays de la Loire,52
+1156,72320,Saint-Saturnin,72,Pays de la Loire,52
+1157,72321,Saint-Symphorien,72,Pays de la Loire,52
+1158,72322,Saint-Ulphace,72,Pays de la Loire,52
+1159,72323,Saint-Victeur,72,Pays de la Loire,52
+1160,72324,Saint-Vincent-Des-Prés,72,Pays de la Loire,52
+1161,72325,Saint-Vincent-Du-Lorouër,72,Pays de la Loire,52
+1162,72326,Saosnes,72,Pays de la Loire,52
+1163,72327,Sarcé,72,Pays de la Loire,52
+1164,72328,Sargé-Lès-Le-Mans,72,Pays de la Loire,52
+1165,72329,Savigné-L'Evêque,72,Pays de la Loire,52
+1166,72330,Savigné-Sous-Le-Lude,72,Pays de la Loire,52
+1167,72331,Sceaux-Sur-Huisne,72,Pays de la Loire,52
+1168,72332,Ségrie,72,Pays de la Loire,52
+1169,72333,Semur-En-Vallon,72,Pays de la Loire,52
+1170,72334,Sillé-Le-Guillaume,72,Pays de la Loire,52
+1171,72335,Sillé-Le-Philippe,72,Pays de la Loire,52
+1172,72336,Solesmes,72,Pays de la Loire,52
+1173,72337,Sougé-Le-Ganelon,72,Pays de la Loire,52
+1174,72338,Souillé,72,Pays de la Loire,52
+1175,72339,Souligné-Flacé,72,Pays de la Loire,52
+1176,72340,Souligné-Sous-Ballon,72,Pays de la Loire,52
+1177,72341,Soulitré,72,Pays de la Loire,52
+1178,72342,Souvigné-Sur-Même,72,Pays de la Loire,52
+1179,72343,Souvigné-Sur-Sarthe,72,Pays de la Loire,52
+1180,72344,Spay,72,Pays de la Loire,52
+1181,72345,Surfonds,72,Pays de la Loire,52
+1182,72346,La Suze-Sur-Sarthe,72,Pays de la Loire,52
+1183,72347,Tassé,72,Pays de la Loire,52
+1184,72348,Tassillé,72,Pays de la Loire,52
+1185,72349,Teillé,72,Pays de la Loire,52
+1186,72350,Teloché,72,Pays de la Loire,52
+1187,72351,Tennie,72,Pays de la Loire,52
+1188,72352,Terrehault,72,Pays de la Loire,52
+1189,72353,Théligny,72,Pays de la Loire,52
+1190,72354,Thoigné,72,Pays de la Loire,52
+1191,72355,Thoiré-Sous-Contensor,72,Pays de la Loire,52
+1192,72356,Thoiré-Sur-Dinan,72,Pays de la Loire,52
+1193,72357,Thorée-Les-Pins,72,Pays de la Loire,52
+1194,72358,Thorigné-Sur-Dué,72,Pays de la Loire,52
+1195,72359,Torcé-En-Vallée,72,Pays de la Loire,52
+1196,72360,Trangé,72,Pays de la Loire,52
+1197,72361,Tresson,72,Pays de la Loire,52
+1198,72362,Le Tronchet,72,Pays de la Loire,52
+1199,72363,Tuffé Val De La Chéronne,72,Pays de la Loire,52
+1200,72364,Vaas,72,Pays de la Loire,52
+1201,72366,Valennes,72,Pays de la Loire,52
+1202,72367,Vallon-Sur-Gée,72,Pays de la Loire,52
+1203,72368,Vancé,72,Pays de la Loire,52
+1204,72369,Verneil-Le-Chétif,72,Pays de la Loire,52
+1205,72370,Vernie,72,Pays de la Loire,52
+1206,72372,Vezot,72,Pays de la Loire,52
+1207,72373,Vibraye,72,Pays de la Loire,52
+1208,72374,Villaines-La-Carelle,72,Pays de la Loire,52
+1209,72375,Villaines-La-Gonais,72,Pays de la Loire,52
+1210,72376,Villaines-Sous-Lucé,72,Pays de la Loire,52
+1211,72377,Villaines-Sous-Malicorne,72,Pays de la Loire,52
+1212,72378,Vion,72,Pays de la Loire,52
+1213,72379,Viré-En-Champagne,72,Pays de la Loire,52
+1214,72380,Vivoin,72,Pays de la Loire,52
+1215,72381,Voivres-Lès-Le-Mans,72,Pays de la Loire,52
+1216,72382,Volnay,72,Pays de la Loire,52
+1217,72383,Vouvray-Sur-Huisne,72,Pays de la Loire,52
+1218,72384,Vouvray-Sur-Loir,72,Pays de la Loire,52
+1219,72385,Yvré-Le-Pôlin,72,Pays de la Loire,52
+1220,72386,Yvré-L'Evêque,72,Pays de la Loire,52
+1221,85001,L'Aiguillon-La-Presqu'Île,85,Pays de la Loire,52
+1222,85002,L'Aiguillon-Sur-Vie,85,Pays de la Loire,52
+1223,85003,Aizenay,85,Pays de la Loire,52
+1224,85004,Angles,85,Pays de la Loire,52
+1225,85005,Antigny,85,Pays de la Loire,52
+1226,85006,Apremont,85,Pays de la Loire,52
+1227,85008,Aubigny-Les Clouzeaux,85,Pays de la Loire,52
+1228,85009,Auchay-Sur-Vendée,85,Pays de la Loire,52
+1229,85010,Avrillé,85,Pays de la Loire,52
+1230,85011,Barbâtre,85,Pays de la Loire,52
+1231,85012,La Barre-De-Monts,85,Pays de la Loire,52
+1232,85013,Bazoges-En-Paillers,85,Pays de la Loire,52
+1233,85014,Bazoges-En-Pareds,85,Pays de la Loire,52
+1234,85015,Beaufou,85,Pays de la Loire,52
+1235,85016,Beaulieu-Sous-La-Roche,85,Pays de la Loire,52
+1236,85017,Beaurepaire,85,Pays de la Loire,52
+1237,85018,Beauvoir-Sur-Mer,85,Pays de la Loire,52
+1238,85019,Bellevigny,85,Pays de la Loire,52
+1239,85020,Benet,85,Pays de la Loire,52
+1240,85021,La Bernardière,85,Pays de la Loire,52
+1241,85022,Le Bernard,85,Pays de la Loire,52
+1242,85023,Bessay,85,Pays de la Loire,52
+1243,85024,Bois-De-Céné,85,Pays de la Loire,52
+1244,85025,La Boissière-De-Montaigu,85,Pays de la Loire,52
+1245,85026,La Boissière-Des-Landes,85,Pays de la Loire,52
+1246,85027,Boufféré,85,Pays de la Loire,52
+1247,85028,Bouillé-Courdault,85,Pays de la Loire,52
+1248,85029,Bouin,85,Pays de la Loire,52
+1249,85030,Boulogne,85,Pays de la Loire,52
+1250,85031,Le Boupère,85,Pays de la Loire,52
+1251,85033,Bourneau,85,Pays de la Loire,52
+1252,85034,Bournezeau,85,Pays de la Loire,52
+1253,85035,Bretignolles-Sur-Mer,85,Pays de la Loire,52
+1254,85036,La Bretonnière-La Claye,85,Pays de la Loire,52
+1255,85037,Breuil-Barret,85,Pays de la Loire,52
+1256,85038,Les Brouzils,85,Pays de la Loire,52
+1257,85039,La Bruffière,85,Pays de la Loire,52
+1258,85040,La Caillère-Saint-Hilaire,85,Pays de la Loire,52
+1259,85041,Cezais,85,Pays de la Loire,52
+1260,85042,Chaillé-Les-Marais,85,Pays de la Loire,52
+1261,85043,Chaill?-Sous-Les-Ormeaux,85,Pays de la Loire,52
+1262,85044,Chaix,85,Pays de la Loire,52
+1263,85045,La Chaize-Giraud,85,Pays de la Loire,52
+1264,85046,La Chaize-Le-Vicomte,85,Pays de la Loire,52
+1265,85047,Challans,85,Pays de la Loire,52
+1266,85048,Chambretaud,85,Pays de la Loire,52
+1267,85049,Champagné-Les-Marais,85,Pays de la Loire,52
+1268,85050,Le Champ-Saint-Père,85,Pays de la Loire,52
+1269,85051,Chantonnay,85,Pays de la Loire,52
+1270,85052,La Chapelle-Achard,85,Pays de la Loire,52
+1271,85053,La Chapelle-Aux-Lys,85,Pays de la Loire,52
+1272,85054,La Chapelle-Hermier,85,Pays de la Loire,52
+1273,85055,La Chapelle-Palluau,85,Pays de la Loire,52
+1274,85056,La Chapelle-Thémer,85,Pays de la Loire,52
+1275,85058,Chasnais,85,Pays de la Loire,52
+1276,85059,La Châtaigneraie,85,Pays de la Loire,52
+1277,85060,Château-D'Olonne,85,Pays de la Loire,52
+1278,85061,Château-Guibert,85,Pays de la Loire,52
+1279,85062,Châteauneuf,85,Pays de la Loire,52
+1280,85063,Les Ch?Telliers-Ch?Teaumur,85,Pays de la Loire,52
+1281,85064,Chauché,85,Pays de la Loire,52
+1282,85065,Chavagnes-En-Paillers,85,Pays de la Loire,52
+1283,85066,Chavagnes-Les-Redoux,85,Pays de la Loire,52
+1284,85067,Cheffois,85,Pays de la Loire,52
+1285,85069,Les Clouzeaux,85,Pays de la Loire,52
+1286,85070,Coëx,85,Pays de la Loire,52
+1287,85071,Commequiers,85,Pays de la Loire,52
+1288,85072,La Copechagnière,85,Pays de la Loire,52
+1289,85073,Corpe,85,Pays de la Loire,52
+1290,85074,La Couture,85,Pays de la Loire,52
+1291,85076,Cugand,85,Pays de la Loire,52
+1292,85077,Curzon,85,Pays de la Loire,52
+1293,85078,Damvix,85,Pays de la Loire,52
+1294,85080,Doix Lès Fontaines,85,Pays de la Loire,52
+1295,85081,Dompierre-Sur-Yon,85,Pays de la Loire,52
+1296,85082,Les Epesses,85,Pays de la Loire,52
+1297,85083,L'Epine,85,Pays de la Loire,52
+1298,85084,Essarts En Bocage,85,Pays de la Loire,52
+1299,85086,Falleron,85,Pays de la Loire,52
+1300,85087,Faymoreau,85,Pays de la Loire,52
+1301,85088,Le Fenouiller,85,Pays de la Loire,52
+1302,85089,La Ferrière,85,Pays de la Loire,52
+1303,85090,Sèvremont,85,Pays de la Loire,52
+1304,85091,Fontaines,85,Pays de la Loire,52
+1305,85092,Fontenay-Le-Comte,85,Pays de la Loire,52
+1306,85093,Fougeré,85,Pays de la Loire,52
+1307,85094,Foussais-Payré,85,Pays de la Loire,52
+1308,85095,Froidfond,85,Pays de la Loire,52
+1309,85096,La Garnache,85,Pays de la Loire,52
+1310,85097,La Gaubretière,85,Pays de la Loire,52
+1311,85098,La Génétouze,85,Pays de la Loire,52
+1312,85099,Le Girouard,85,Pays de la Loire,52
+1313,85100,Givrand,85,Pays de la Loire,52
+1314,85101,Le Givre,85,Pays de la Loire,52
+1315,85102,Grand'Landes,85,Pays de la Loire,52
+1316,85103,Grosbreuil,85,Pays de la Loire,52
+1317,85104,Grues,85,Pays de la Loire,52
+1318,85105,Le Gué-De-Velluire,85,Pays de la Loire,52
+1319,85106,La Guérinière,85,Pays de la Loire,52
+1320,85107,La Guyonnière,85,Pays de la Loire,52
+1321,85108,L'Herbergement,85,Pays de la Loire,52
+1322,85109,Les Herbiers,85,Pays de la Loire,52
+1323,85110,L'Hermenault,85,Pays de la Loire,52
+1324,85111,L'Ile-D'Elle,85,Pays de la Loire,52
+1325,85112,L'Ile-D'Olonne,85,Pays de la Loire,52
+1326,85113,L'Ile-D'Yeu,85,Pays de la Loire,52
+1327,85114,Jard-Sur-Mer,85,Pays de la Loire,52
+1328,85115,La Jaudonnière,85,Pays de la Loire,52
+1329,85116,La Jonchère,85,Pays de la Loire,52
+1330,85117,Lairoux,85,Pays de la Loire,52
+1331,85118,Landeronde,85,Pays de la Loire,52
+1332,85119,Les Landes-Genusson,85,Pays de la Loire,52
+1333,85120,Landevieille,85,Pays de la Loire,52
+1334,85121,Le Langon,85,Pays de la Loire,52
+1335,85123,Liez,85,Pays de la Loire,52
+1336,85125,Loge-Fougereuse,85,Pays de la Loire,52
+1337,85126,Longèves,85,Pays de la Loire,52
+1338,85127,Longeville-Sur-Mer,85,Pays de la Loire,52
+1339,85128,Luçon,85,Pays de la Loire,52
+1340,85129,Les Lucs-Sur-Boulogne,85,Pays de la Loire,52
+1341,85130,Maché,85,Pays de la Loire,52
+1342,85131,Les Magnils-Reigniers,85,Pays de la Loire,52
+1343,85132,Maillé,85,Pays de la Loire,52
+1344,85133,Maillezais,85,Pays de la Loire,52
+1345,85134,Mallièvre,85,Pays de la Loire,52
+1346,85135,Mareuil-Sur-Lay-Dissais,85,Pays de la Loire,52
+1347,85136,Marillet,85,Pays de la Loire,52
+1348,85137,Marsais-Sainte-Radégonde,85,Pays de la Loire,52
+1349,85138,Martinet,85,Pays de la Loire,52
+1350,85139,Le Mazeau,85,Pays de la Loire,52
+1351,85140,La Meilleraie-Tillay,85,Pays de la Loire,52
+1352,85141,Menomblet,85,Pays de la Loire,52
+1353,85142,La Merlatière,85,Pays de la Loire,52
+1354,85143,Mervent,85,Pays de la Loire,52
+1355,85144,Mesnard-La-Barotière,85,Pays de la Loire,52
+1356,85145,Monsireigne,85,Pays de la Loire,52
+1357,85146,Montaigu-Vendée,85,Pays de la Loire,52
+1358,85147,Montournais,85,Pays de la Loire,52
+1359,85148,Montreuil,85,Pays de la Loire,52
+1360,85149,Moreilles,85,Pays de la Loire,52
+1361,85150,Mormaison,85,Pays de la Loire,52
+1362,85151,Mortagne-Sur-Sèvre,85,Pays de la Loire,52
+1363,85152,Les Achards,85,Pays de la Loire,52
+1364,85153,Mouchamps,85,Pays de la Loire,52
+1365,85154,Mouilleron-Saint-Germain,85,Pays de la Loire,52
+1366,85155,Mouilleron-Le-Captif,85,Pays de la Loire,52
+1367,85156,Moutiers-Les-Mauxfaits,85,Pays de la Loire,52
+1368,85157,Moutiers-Sur-Le-Lay,85,Pays de la Loire,52
+1369,85158,Mouzeuil-Saint-Martin,85,Pays de la Loire,52
+1370,85159,Nalliers,85,Pays de la Loire,52
+1371,85160,Nesmy,85,Pays de la Loire,52
+1372,85161,Nieul-Le-Dolent,85,Pays de la Loire,52
+1373,85162,Rives-D'Autise,85,Pays de la Loire,52
+1374,85163,Noirmoutier-En-L'Ile,85,Pays de la Loire,52
+1375,85164,Notre-Dame-De-Monts,85,Pays de la Loire,52
+1376,85165,L'Oie,85,Pays de la Loire,52
+1377,85166,Olonne-Sur-Mer,85,Pays de la Loire,52
+1378,85167,L'Orbrie,85,Pays de la Loire,52
+1379,85168,Oulmes,85,Pays de la Loire,52
+1380,85169,Palluau,85,Pays de la Loire,52
+1381,85171,Péault,85,Pays de la Loire,52
+1382,85172,Le Perrier,85,Pays de la Loire,52
+1383,85174,Petosse,85,Pays de la Loire,52
+1384,85175,Les Pineaux,85,Pays de la Loire,52
+1385,85176,Pissotte,85,Pays de la Loire,52
+1386,85177,Les Velluire-Sur-Vendée,85,Pays de la Loire,52
+1387,85178,Le Poiré-Sur-Vie,85,Pays de la Loire,52
+1388,85179,Poiroux,85,Pays de la Loire,52
+1389,85180,La Pommeraie-Sur-S?Vre,85,Pays de la Loire,52
+1390,85181,Pouillé,85,Pays de la Loire,52
+1391,85182,Pouzauges,85,Pays de la Loire,52
+1392,85184,Puy-De-Serre,85,Pays de la Loire,52
+1393,85185,Puyravault,85,Pays de la Loire,52
+1394,85186,La Rabatelière,85,Pays de la Loire,52
+1395,85187,Réaumur,85,Pays de la Loire,52
+1396,85188,La Réorthe,85,Pays de la Loire,52
+1397,85189,Notre-Dame-De-Riez,85,Pays de la Loire,52
+1398,85190,Rocheservière,85,Pays de la Loire,52
+1399,85191,La Roche-Sur-Yon,85,Pays de la Loire,52
+1400,85192,Rochetrejoux,85,Pays de la Loire,52
+1401,85193,Rosnay,85,Pays de la Loire,52
+1402,85194,Les Sables-D'Olonne,85,Pays de la Loire,52
+1403,85196,Saint-André-Goule-D'Oie,85,Pays de la Loire,52
+1404,85197,Montréverd,85,Pays de la Loire,52
+1405,85198,Saint-Aubin-Des-Ormeaux,85,Pays de la Loire,52
+1406,85199,Saint-Aubin-La-Plaine,85,Pays de la Loire,52
+1407,85200,Saint-Avaugourd-Des-Landes,85,Pays de la Loire,52
+1408,85201,Saint-Benoist-Sur-Mer,85,Pays de la Loire,52
+1409,85202,Sainte-Cécile,85,Pays de la Loire,52
+1410,85204,Saint-Christophe-Du-Ligneron,85,Pays de la Loire,52
+1411,85205,Saint-Cyr-Des-Gâts,85,Pays de la Loire,52
+1412,85206,Saint-Cyr-En-Talmondais,85,Pays de la Loire,52
+1413,85207,Saint-Denis-Du-Payré,85,Pays de la Loire,52
+1414,85208,Saint-Denis-La-Chevasse,85,Pays de la Loire,52
+1415,85209,Saint-Etienne-De-Brillouet,85,Pays de la Loire,52
+1416,85210,Saint-Etienne-Du-Bois,85,Pays de la Loire,52
+1417,85211,Sainte-Flaive-Des-Loups,85,Pays de la Loire,52
+1418,85212,Sainte-Florence,85,Pays de la Loire,52
+1419,85213,Rives De L'Yon,85,Pays de la Loire,52
+1420,85214,Sainte-Foy,85,Pays de la Loire,52
+1421,85215,Saint-Fulgent,85,Pays de la Loire,52
+1422,85216,Sainte-Gemme-La-Plaine,85,Pays de la Loire,52
+1423,85217,Saint-Georges-De-Montaigu,85,Pays de la Loire,52
+1424,85218,Saint-Georges-De-Pointindoux,85,Pays de la Loire,52
+1425,85219,Saint-Germain-L'Aiguiller,85,Pays de la Loire,52
+1426,85220,Saint-Germain-De-Prinçay,85,Pays de la Loire,52
+1427,85221,Saint-Gervais,85,Pays de la Loire,52
+1428,85222,Saint-Gilles-Croix-De-Vie,85,Pays de la Loire,52
+1429,85223,Sainte-Hermine,85,Pays de la Loire,52
+1430,85224,Saint-Hilaire-De-Loulay,85,Pays de la Loire,52
+1431,85226,Saint-Hilaire-De-Riez,85,Pays de la Loire,52
+1432,85227,Saint-Hilaire-Des-Loges,85,Pays de la Loire,52
+1433,85229,Saint-Hilaire-De-Voust,85,Pays de la Loire,52
+1434,85231,Saint-Hilaire-La-Forêt,85,Pays de la Loire,52
+1435,85232,Saint-Hilaire-Le-Vouhis,85,Pays de la Loire,52
+1436,85233,Saint-Jean-De-Beugné,85,Pays de la Loire,52
+1437,85234,Saint-Jean-De-Monts,85,Pays de la Loire,52
+1438,85235,Saint-Juire-Champgillon,85,Pays de la Loire,52
+1439,85236,Saint-Julien-Des-Landes,85,Pays de la Loire,52
+1440,85237,Saint-Laurent-De-La-Salle,85,Pays de la Loire,52
+1441,85238,Saint-Laurent-Sur-Sèvre,85,Pays de la Loire,52
+1442,85239,Saint-Maixent-Sur-Vie,85,Pays de la Loire,52
+1443,85240,Saint-Malô-Du-Bois,85,Pays de la Loire,52
+1444,85242,Saint-Mars-La-Réorthe,85,Pays de la Loire,52
+1445,85243,Brem-Sur-Mer,85,Pays de la Loire,52
+1446,85244,Saint-Martin-De-Fraigneau,85,Pays de la Loire,52
+1447,85245,Saint-Martin-Des-Fontaines,85,Pays de la Loire,52
+1448,85246,Saint-Martin-Des-Noyers,85,Pays de la Loire,52
+1449,85247,Saint-Martin-Des-Tilleuls,85,Pays de la Loire,52
+1450,85248,Saint-Martin-Lars-En-Sainte-Hermine,85,Pays de la Loire,52
+1451,85250,Saint-Mathurin,85,Pays de la Loire,52
+1452,85251,Saint-Maurice-Des-Noues,85,Pays de la Loire,52
+1453,85252,Saint-Maurice-Le-Girard,85,Pays de la Loire,52
+1454,85254,Saint-Mesmin,85,Pays de la Loire,52
+1455,85255,Saint-Michel-En-L'Herm,85,Pays de la Loire,52
+1456,85256,Saint-Michel-Le-Cloucq,85,Pays de la Loire,52
+1457,85257,Saint-Michel-Mont-Mercure,85,Pays de la Loire,52
+1458,85259,Saint-Paul-En-Pareds,85,Pays de la Loire,52
+1459,85260,Saint-Paul-Mont-Penit,85,Pays de la Loire,52
+1460,85261,Sainte-Pexine,85,Pays de la Loire,52
+1461,85262,Saint-Philbert-De-Bouaine,85,Pays de la Loire,52
+1462,85264,Saint-Pierre-Du-Chemin,85,Pays de la Loire,52
+1463,85265,Saint-Pierre-Le-Vieux,85,Pays de la Loire,52
+1464,85266,Saint-Prouant,85,Pays de la Loire,52
+1465,85267,Sainte-Radégonde-Des-Noyers,85,Pays de la Loire,52
+1466,85268,Saint-Révérend,85,Pays de la Loire,52
+1467,85269,Saint-Sigismond,85,Pays de la Loire,52
+1468,85271,Saint-Sulpice-En-Pareds,85,Pays de la Loire,52
+1469,85272,Saint-Sulpice-Le-Verdon,85,Pays de la Loire,52
+1470,85273,Saint-Urbain,85,Pays de la Loire,52
+1471,85274,Saint-Valérien,85,Pays de la Loire,52
+1472,85276,Saint-Vincent-Sterlanges,85,Pays de la Loire,52
+1473,85277,Saint-Vincent-Sur-Graon,85,Pays de la Loire,52
+1474,85278,Saint-Vincent-Sur-Jard,85,Pays de la Loire,52
+1475,85279,Saligny,85,Pays de la Loire,52
+1476,85280,Sallertaine,85,Pays de la Loire,52
+1477,85281,Sérigné,85,Pays de la Loire,52
+1478,85282,Sigournais,85,Pays de la Loire,52
+1479,85284,Soullans,85,Pays de la Loire,52
+1480,85285,Le Tablier,85,Pays de la Loire,52
+1481,85286,La Taillée,85,Pays de la Loire,52
+1482,85287,Tallud-Sainte-Gemme,85,Pays de la Loire,52
+1483,85288,Talmont-Saint-Hilaire,85,Pays de la Loire,52
+1484,85289,La Tardière,85,Pays de la Loire,52
+1485,85290,Thiré,85,Pays de la Loire,52
+1486,85291,Thorigny,85,Pays de la Loire,52
+1487,85292,Thouarsais-Bouildroux,85,Pays de la Loire,52
+1488,85293,Tiffauges,85,Pays de la Loire,52
+1489,85294,La Tranche-Sur-Mer,85,Pays de la Loire,52
+1490,85295,Treize-Septiers,85,Pays de la Loire,52
+1491,85296,Treize-Vents,85,Pays de la Loire,52
+1492,85297,Triaize,85,Pays de la Loire,52
+1493,85298,Vairé,85,Pays de la Loire,52
+1494,85299,Velluire,85,Pays de la Loire,52
+1495,85300,Venansault,85,Pays de la Loire,52
+1496,85301,Vendrennes,85,Pays de la Loire,52
+1497,85302,Chanverrie,85,Pays de la Loire,52
+1498,85303,Vix,85,Pays de la Loire,52
+1499,85304,Vouillé-Les-Marais,85,Pays de la Loire,52
+1500,85305,Vouvant,85,Pays de la Loire,52
+1501,85306,Xanton-Chassenon,85,Pays de la Loire,52
+1502,85307,La Faute-Sur-Mer,85,Pays de la Loire,52

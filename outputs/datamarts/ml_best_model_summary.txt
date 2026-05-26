@@ -1,10 +1,10 @@
 === Resume choix modele (MSPR) ===
-Modele retenu (RMSE min): LinearRegression
-RMSE: 5.4626
-MAE: 5.4626
-R2: non interpretable en Leave-One-Out (1 observation de test par fold)
+Modele retenu (RMSE min): RandomForest
+RMSE: 3.6950
+MAE: 2.8046
+R2: 0.9420
 
 Justification:
 - Selection basee sur la performance predictive (RMSE).
-- Resultat interprete comme POC (taille d'echantillon faible).
-- Recommandation: enrichir le datamart avant generalisation.
+- Validation croisee adaptee au volume du datamart.
+- Interpretation a croiser avec les limites metier et la qualite des millesimes.
